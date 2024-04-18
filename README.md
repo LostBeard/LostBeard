@@ -1,6 +1,4 @@
 ## Hello world, I'm Todd!
-  
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=LostBeard)](https://github.com/LostBeard/github-readme-stats)
 
 ### Development knowledge
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

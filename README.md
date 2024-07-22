@@ -1,13 +1,13 @@
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS)](https://github.com/LostBeard/SpawnDev.BlazorJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers)](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS)](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SimplePeer)](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebTorrents)](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SocketIO)](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.FFmpegWasm)](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.OpenCVSharp4)](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.MessagePack)](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.VisNetwork)](https://github.com/LostBeard/SpawnDev.BlazorJS.VisNetwork)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=BlazorWASMSIMDDetectExample)](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=BlazorServiceWorkerDemo)](https://github.com/LostBeard/BlazorServiceWorkerDemo)
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SimplePeer" /></a>
+<a href="https://github.com/LostBeard/BlazorWASMSIMDDetectExample"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=BlazorWASMSIMDDetectExample" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SocketIO" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.FFmpegWasm" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.OpenCVSharp4" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.MessagePack" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.VisNetwork"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.VisNetwork" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebTorrents" /></a>
+<a href="https://github.com/LostBeard/BlazorServiceWorkerDemo"><img  align="top" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=BlazorServiceWorkerDemo" /></a>

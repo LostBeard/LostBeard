@@ -3,7 +3,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers)](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS)](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SimplePeer)](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebTorrents)](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTprrents)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebTorrents)](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.SocketIO)](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.FFmpegWasm)](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.OpenCVSharp4)](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)

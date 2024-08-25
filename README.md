@@ -14,3 +14,4 @@
 <a href="https://github.com/LostBeard/BlazorServiceWorkerDemo" title="BlazorServiceWorkerDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=1&theme=dark&username=LostBeard&repo=BlazorServiceWorkerDemo" /></a>
 <a href="https://github.com/LostBeard/BlazorWASMSIMDDetectExample" title="BlazorWASMSIMDDetectExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=1&theme=dark&username=LostBeard&repo=BlazorWASMSIMDDetectExample" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.EBML" title="BlazorWASMSIMDDetectExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=1&theme=dark&username=LostBeard&repo=SpawnDev.EBML" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.PatchStreams" title="BlazorWASMSIMDDetectExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=1&theme=dark&username=LostBeard&repo=SpawnDev.PatchStreams" /></a>

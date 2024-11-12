@@ -16,6 +16,7 @@
 <a href="https://github.com/LostBeard/SpawnDev.PatchStreams" title="SpawnDev.PatchStreams"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=4&theme=dark&username=LostBeard&repo=SpawnDev.PatchStreams" /></a>
 <a href="https://github.com/LostBeard/BlazorWASMSIMDDetectExample" title="BlazorWASMSIMDDetectExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=4&theme=dark&username=LostBeard&repo=BlazorWASMSIMDDetectExample" /></a>
 <a href="https://github.com/LostBeard/BlazorWebAppSIMDDetectExample" title="BlazorWebAppSIMDDetectExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=4&theme=dark&username=LostBeard&repo=BlazorWebAppSIMDDetectExample" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography" title="SpawnDev.BlazorJS.Cryptography"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=4&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Cryptography" /></a>
 
 ## Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

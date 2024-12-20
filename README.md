@@ -1,6 +1,6 @@
 <details>
   <summary>
-    Todd Tanner, a creator of, and the only developer for, 3DGameMarket, developed multiple new techniques for extracting multiple 3D views in DirectX games and rendering them on glasses-free 3D displays. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM (3DGameMarket's gaming software) and he has also created clone websites of 3DGameMarket.net and custom, branded versions of 3DGM and 3DGM Video Player for these other companies.  
+    Todd Tanner, a creator of, and the only developer for, 3DGameMarket, developed new techniques for extracting multiple 3D views in DirectX games and rendering them on glasses-free 3D displays. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM (3DGameMarket's gaming software) and he has also created clone websites of 3DGameMarket.net and custom, branded versions of 3DGM and 3DGM Video Player for these other companies.  
     
   </summary>
   <div style="font-weight: bold;">

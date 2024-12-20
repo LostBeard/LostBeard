@@ -3,7 +3,7 @@
     Todd Tanner, a creator of, and the only developer for, 3DGameMarket, developed multiple new techniques for extracting multiple 3D views in DirectX games and rendering them on glasses-free 3D displays. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM and he has also created clone websites of 3DGameMarket.net and branded, specialized versions of 3DGM and 3DGM Video Player for these other companies. 
   </summary>
   <div style="font-weight: bold;">
-
+  
 In 2016 Todd developed 3DGM from scratch to eliminate 3DGameMarket's dependence on software licensed from Philips saving 3DGameMarket $10,000.00 a year in licensing fees. He has extensive experience with multiview rendering on lenticular autostereoscopic displays, including the development of pixel-pattern renderers and even a pixel-pattern scanning technique that can determine a lenticular display's pixel-to-view layout (pixel-pattern) using only a webcam and a web browser.
 
 Todd has created 3D video players for the web that are compatible with many 3D displays including autostereoscopic lenticular glasses-free displays. An older version of his 3D media renderer for the web, <a href="https://github.com/LostBeard/rendusa">Rendusa</a>, can be seen on any of our supported game pages. The old version can take in 2D+Z (2D plus depth) screenshots and videos and render them in multiple output formats including anaglyph, side-by-side, over-under, and 2D. He has a newer version of the web 3D player that supports lenticular displays and runs on Blazor WebAssembly.

@@ -1,3 +1,64 @@
+<details>
+  <summary>
+    Todd Tanner, a creator of, and the only developer for, 3DGameMarket, developed multiple new techniques for extracting and rendering multiple 3D views in DirectX games. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM and he has also created clone websites of 3DGameMarket.net and branded, specialized versions of 3DGM and 3DGM Video Player for these other companies. 
+  </summary>
+  <div style="font-weight: bold;">
+
+In 2016 Todd developed 3DGM from scratch to eliminate 3DGameMarket's dependence on software licensed from Philips saving 3DGameMarket $10,000.00 a year in licensing fees. He has extensive experience with multiview rendering on lenticular autostereoscopic displays, including the development of pixel-pattern renderers and even a pixel-pattern scanning technique that can determine a lenticular display's pixel-to-view layout (pixel-pattern) using only a webcam and a web browser.
+
+Todd has created 3D video players for the web that are compatible with many 3D displays including autostereoscopic lenticular glasses-free displays. An older version of his 3D media renderer for the web, <a href="https://github.com/LostBeard/rendusa">Rendusa</a>, can be seen on any of our supported game pages. The old version can take in 2D+Z (2D plus depth) screenshots and videos and render them in multiple output formats including anaglyph, side-by-side, over-under, and 2D. He has a newer version of the web 3D player that supports lenticular displays and runs on Blazor WebAssembly.
+
+In 2020 Todd gave 3DGM a new 3D mod editor to help in the creation of 3D mods using the new multi-render technique he also created. This new method of extracting 3D views from games created better 3D views than the previous depth-map-based technique. It uses the game to draw the scene for each view, instead of using a single rendered view and a depth map to render each view. This technique, while more complicated, produces even better 3D.
+
+Todd set up the 3DGameMarket.net store front to allow 3DGameMarket the ability to sell our products directly to consumers instead of relying on a secondary outlet that would increase the price of our products. He handles all of the Linux server maintenance and upkeep such as managing SSL certificates, OS updates, Drupal updates, database management, HAProxy SSL termination, Apache configuration, etc.
+
+Some of the companies Todd has worked with to integrate 3D gaming with their displays and/or created custom 3D software for:
+- Dimenco
+- Deepub
+- KDX
+- Liquid3D
+- Exceptional
+- Acer
+- PSHolix
+
+Some of the programming languages Todd uses for 3DGameMarket:
+- C++
+- C#
+- HLSL
+- GLSL
+- PHP
+- SQL
+- Javascript
+- CSS
+- HTML
+
+Todd has worked on 3DGameMarket projects since ~2012, over ~25,000 hours invested, with significantly less than a minimum wage return on that investment and little to no help (none since mid-2023.) As 3DGameMarket appears to be winding down due to a lack of interest by the other owners, zero advertising being done, and no active customers, Todd is available for other projects. He has been working on consulting, free-lance projects, and numerous open source projects which are all available on his <a href="https://github.com/LostBeard">GitHub</a> account. He routinely contributes to other open source projects including:
+- <a href="https://github.com/webtorrent/webtorrent">WebTorrent</a>
+- <a href="https://github.com/nwjs/nw.js/">NW.js</a>
+- <a href="https://github.com/feross/simple-peer">SimplePeer</a>
+- <a href="https://github.com/peers/peerjs">PeerJS</a>
+- <a href="https://github.com/socketio/socket.io">SocketIO</a>
+- <a href="https://github.com/radzenhq/radzen-blazor">Radzen Blazor</a>
+- <a href="https://github.com/nwutils/nw-builder">NW-Builder</a>
+- <a href="https://github.com/ffmpegwasm/ffmpeg.wasm">ffmpeg.wasm</a>
+- <a href="https://github.com/shimat/opencvsharp">OpenCVSharp</a>
+- <a href="https://github.com/mdn/content">MDN</a>
+- Multiple Microsoft projects including:
+- <a href="https://github.com/dotnet/aspnetcore">ASP.Net</a>
+- <a href="https://github.com/dotnet/runtime">.Net Runtime</a> 
+- Visual Studio
+- etc.
+
+Todd's favorite programming language is C# and he loves Blazor WebAssembly. 
+He can be reached for development projects and consulting via:
+GitHub
+<a href="https://github.com/LostBeard">https://github.com/LostBeard</a>
+Email
+<a href="mailto:todd@spawndev.com">Todd@SpawnDev.com</a>
+
+</div>
+</details>
+
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS" title="SpawnDev.BlazorJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=14&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers" title="SpawnDev.BlazorJS.WebWorkers"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=14&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents" title="SpawnDev.BlazorJS.WebTorrents"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=14&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebTorrents" /></a>

@@ -49,7 +49,6 @@ Todd has worked on 3DGameMarket projects since ~2012, over ~25,000 hours investe
 - <a href="https://github.com/dotnet/aspnetcore">ASP.Net</a>
 - <a href="https://github.com/dotnet/runtime">.Net Runtime</a> 
 - Visual Studio
-- etc.
 
 Todd's favorite programming language is C# and he loves Blazor WebAssembly. 
 He can be reached for development projects and consulting via:

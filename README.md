@@ -34,7 +34,7 @@ Some of the programming languages Todd uses for 3DGameMarket:
 - CSS
 - HTML
 
-Todd has worked on 3DGameMarket projects since ~2012, over ~25,000 hours invested, with significantly less than a minimum wage return on that investment and little to no help (none since mid-2023.) As 3DGameMarket appears to be winding down due to a lack of interest by the other owners, zero advertising being done, and no active customers, Todd is available for other projects. He has been working on consulting, free-lance projects, and numerous open source projects which are all available on his <a href="https://github.com/LostBeard">GitHub</a> account. He routinely contributes to other open source projects including:
+Todd has worked on 3DGameMarket projects since ~2012 and in the last few years, he has been working on consulting, free-lance projects, and numerous open source projects which are all available on his <a href="https://github.com/LostBeard">GitHub</a> account. He routinely contributes to other open source projects including:
 - <a href="https://github.com/webtorrent/webtorrent">WebTorrent</a>
 - <a href="https://github.com/nwjs/nw.js/">NW.js</a>
 - <a href="https://github.com/feross/simple-peer">SimplePeer</a>

@@ -3,7 +3,7 @@
   </summary>
   <div style="font-weight: bold;">
 
-    Todd Tanner, a creator of, and developer for, 3DGameMarket, developed new techniques for extracting multiple 3D views in DirectX games and rendering them on glasses-free 3D displays. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM (3DGameMarket's gaming software) and he has also created clone websites of 3DGameMarket.net and custom, branded versions of 3DGM and 3DGM Video Player for these other companies.  
+Todd Tanner, a creator of, and developer for, 3DGameMarket, developed new techniques for extracting multiple 3D views in DirectX games and rendering them on glasses-free 3D displays. He worked with numerous makers of glasses-free 3D displays to integrate them into 3DGM (3DGameMarket's gaming software) and he has also created clone websites of 3DGameMarket.net and custom, branded versions of 3DGM and 3DGM Video Player for these other companies.  
   
 In 2016 Todd developed 3DGM from scratch to eliminate 3DGameMarket's dependence on software licensed from Philips saving 3DGameMarket $10,000.00 a year in licensing fees. He has extensive experience with multiview rendering on lenticular autostereoscopic displays, including the development of pixel-pattern renderers and even a pixel-pattern scanning technique that can determine a lenticular display's pixel-to-view layout (pixel-pattern) using only a webcam and a web browser.
 

@@ -18,8 +18,8 @@
 <a href="https://github.com/LostBeard/SpawnDev.EBML" title="SpawnDev.EBML"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=SpawnDev.EBML" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4" title="SpawnDev.BlazorJS.OpenCVSharp4"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.OpenCVSharp4" /></a>
 <a href="https://github.com/LostBeard/BlazorServiceWorkerDemo" title="BlazorServiceWorkerDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=BlazorServiceWorkerDemo" /></a>
-<a href="https://github.com/LostBeard/BlazorServiceWorkerDemo" title="BlazorServiceWorkerDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=BlazorServiceWorkerDemo" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner" title="SpawnDev.BlazorJS.CodeRunner"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.CodeRunner" /></a>
+<a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography" title="SpawnDev.BlazorJS.Cryptography"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=22&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Cryptography" /></a>
 
 ## Interests

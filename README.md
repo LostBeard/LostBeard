@@ -21,6 +21,7 @@
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner" title="SpawnDev.BlazorJS.CodeRunner"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=25&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.CodeRunner" /></a>
 <a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=25&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography" title="SpawnDev.BlazorJS.Cryptography"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=25&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Cryptography" /></a>
+<a href="https://github.com/LostBeard/SimpleWebWorkersExample" title="SimpleWebWorkersExample"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=25&theme=dark&username=LostBeard&repo=SimpleWebWorkersExample" /></a>
 
 ## Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

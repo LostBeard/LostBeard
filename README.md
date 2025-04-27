@@ -22,6 +22,10 @@
 <a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=26&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography" title="SpawnDev.BlazorJS.Cryptography"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=26&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Cryptography" /></a>
 <a href="https://github.com/LostBeard/Anaglyphohol" title="Anaglyphohol"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=26&theme=dark&username=LostBeard&repo=Anaglyphohol" /></a>
+<a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=26&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>
+
+
+
 ## Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)

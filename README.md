@@ -1,3 +1,8 @@
+### Blazor WebAssembly can do anything Javascript can. 
+- Write it in C#, not Javascript. See the projects listed below for examples.
+- These projects use [SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) for C# access to all Javascript web browser APIs and data types.  
+- See [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) for running Blazor WASM in web workers and a service worker.
+
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS" title="SpawnDev.BlazorJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers" title="SpawnDev.BlazorJS.WebWorkers"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers" /></a>
 <a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>

@@ -1,6 +1,6 @@
 ### Blazor WebAssembly can do anything Javascript can. 
 - [SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) gives Blazor WebAssembly access to all of Javascript's [Web Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API).  
-- [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) lets yor run Blazor WASM in [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).
+- [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) lets yor run Blazor WebAssembly in [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).
 - Write your fully functional Blazor WebAssembly apps in 100% C#. See below for examples.
 
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS" title="SpawnDev.BlazorJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>

@@ -29,6 +29,9 @@
 <a href="https://github.com/LostBeard/Anaglyphohol" title="Anaglyphohol"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=Anaglyphohol" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS" title="SpawnDev.BlazorJS.PeerJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS" /></a>
 
+<a href="https://github.com/LostBeard/BlazorWASMRealTime2DTo2DZ" title="BlazorWASMRealTime2DTo2DZ"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=BlazorWASMRealTime2DTo2DZ" /></a>
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.MultiView" title="SpawnDev.BlazorJS.MultiView"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=29&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.MultiView" /></a>
+
 
 
 ## Interests

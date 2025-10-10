@@ -70,4 +70,4 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![3D Lenticular Displays](https://img.shields.io/badge/3D_Lenticular_Displays%20-56347C?&style=for-the-badge&logo=3D_Lenticular_Displays&logoColor=23F7DF1E)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning%20-56347C?&style=for-the-badge&logo=Machine_Learning&logoColor=080A13)
+![Machine Learning](https://img.shields.io/badge/3D_Lenticular_Displays%20-56347C?&style=for-the-badge&logo=Machine_Learning&logoColor=orange)

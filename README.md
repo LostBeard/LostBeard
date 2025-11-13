@@ -29,8 +29,7 @@
 <a href="https://github.com/LostBeard/BlazorWASMRealTime2DTo2DZ" title="BlazorWASMRealTime2DTo2DZ"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=BlazorWASMRealTime2DTo2DZ" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.MultiView" title="SpawnDev.BlazorJS.MultiView"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.MultiView" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS" title="SpawnDev.BlazorJS.PeerJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS" /></a>
-
-
+<a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Photino" title="SpawnDev.BlazorJS.Photino"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Photino" /></a>
 
 ## Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

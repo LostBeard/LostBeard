@@ -3,6 +3,7 @@
 - [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) lets yor run Blazor WebAssembly in [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).
 - Write your fully functional Blazor WebAssembly apps in 100% C#. See below for examples.
 
+<!--
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS" title="SpawnDev.BlazorJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers" title="SpawnDev.BlazorJS.WebWorkers"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers" /></a>
 <a href="https://github.com/LostBeard/BlazorWebBluetoothDemo" title="BlazorWebBluetoothDemo"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=BlazorWebBluetoothDemo" /></a>
@@ -30,7 +31,7 @@
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.MultiView" title="SpawnDev.BlazorJS.MultiView"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.MultiView" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS" title="SpawnDev.BlazorJS.PeerJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.PeerJS" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.Photino" title="SpawnDev.BlazorJS.Photino"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.Photino" /></a>
-
+-->
 ## Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)

@@ -5,7 +5,7 @@ import textwrap
 
 # --- CONFIGURATION ---
 USERNAME = "LostBeard"
-MAX_REPOS = 6
+MAX_REPOS = 20
 README_PATH = "README.md"
 OUTPUT_DIR = "pins"
 

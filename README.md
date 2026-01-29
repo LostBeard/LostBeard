@@ -3,6 +3,8 @@
 - [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) lets yor run Blazor WebAssembly in [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).
 - Write your fully functional Blazor WebAssembly apps in 100% C#. See below for examples.
 
+![Metrics](https://metrics.lecoq.io/LostBeard?template=classic&stargazers=1&traffic=1&habits=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&traffic=false&config.timezone=America%2FNew_York)
+
 <!--
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS" title="SpawnDev.BlazorJS"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS" /></a>
 <a href="https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers" title="SpawnDev.BlazorJS.WebWorkers"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?delta=36&theme=dark&username=LostBeard&repo=SpawnDev.BlazorJS.WebWorkers" /></a>

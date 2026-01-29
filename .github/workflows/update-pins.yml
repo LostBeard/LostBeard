@@ -1,15 +1,16 @@
-name: Update Custom Pins
+name: Update Text Pins
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every midnight
-  workflow_dispatch:
+    # Runs at 04:23 UTC (approx 11:23 PM EST) to avoid high-traffic queues
+    - cron: '23 4 * * *'
+  workflow_dispatch: # Allows manual run
 
 jobs:
-  build-and-update:
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important: allows the action to push changes
+      contents: write
     steps:
       - uses: actions/checkout@v3
       
@@ -18,17 +19,18 @@ jobs:
         with:
           python-version: '3.x'
           
-      - name: Install Dependencies
+      - name: Install Requests
         run: pip install requests
 
-      - name: Generate Pins
+      - name: Run Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/generate_pins.py
+        run: python .github/scripts/update_pins_text.py
 
-      - name: Commit changes
+      - name: Commit Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add pins/ README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update repo pins" && git push)
+          git add README.md
+          # Only push if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update repo stats" && git push)

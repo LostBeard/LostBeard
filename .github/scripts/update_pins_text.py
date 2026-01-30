@@ -7,27 +7,6 @@ MAX_REPOS = 10
 README_PATH = "README.md"
 START_MARKER = "<!-- PINS_START -->"
 END_MARKER = "<!-- PINS_END -->"
-To achieve a look that mimics the "Pins" layout (title, description, then stats) without using a table (which forces outlines), the best approach is to use a clean Markdown List format.
-
-This will vertically stack your repos, but it looks much cleaner than a table and allows for the exact element placement you asked for (Stars/Forks at the bottom).
-
-Here is the updated script.
-
-1. The Script (.github/scripts/update_pins_text.py)
-I have replaced the generate_markdown_table function with generate_repo_list, which builds the text-only block layout you requested.
-
-Python
-import os
-import requests
-
-# --- CONFIGURATION ---
-USERNAME = "LostBeard"
-MAX_REPOS = 10
-README_PATH = "README.md"
-
-# MATCHING MARKERS
-START_MARKER = ""
-END_MARKER = ""
 
 def get_top_repos(token):
     headers = {"Authorization": f"token {token}"}

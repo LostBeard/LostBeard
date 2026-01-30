@@ -3,7 +3,7 @@ import requests
 
 # --- CONFIGURATION ---
 USERNAME = "LostBeard"
-MAX_REPOS = 10
+MAX_REPOS = 20
 README_PATH = "README.md"
 START_MARKER = "<!-- PINS_START -->"
 END_MARKER = "<!-- PINS_END -->"

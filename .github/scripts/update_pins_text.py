@@ -7,6 +7,27 @@ MAX_REPOS = 10
 README_PATH = "README.md"
 START_MARKER = "<!-- PINS_START -->"
 END_MARKER = "<!-- PINS_END -->"
+To achieve a look that mimics the "Pins" layout (title, description, then stats) without using a table (which forces outlines), the best approach is to use a clean Markdown List format.
+
+This will vertically stack your repos, but it looks much cleaner than a table and allows for the exact element placement you asked for (Stars/Forks at the bottom).
+
+Here is the updated script.
+
+1. The Script (.github/scripts/update_pins_text.py)
+I have replaced the generate_markdown_table function with generate_repo_list, which builds the text-only block layout you requested.
+
+Python
+import os
+import requests
+
+# --- CONFIGURATION ---
+USERNAME = "LostBeard"
+MAX_REPOS = 10
+README_PATH = "README.md"
+
+# MATCHING MARKERS
+START_MARKER = ""
+END_MARKER = ""
 
 def get_top_repos(token):
     headers = {"Authorization": f"token {token}"}
@@ -20,33 +41,42 @@ def get_top_repos(token):
         print(f"Error fetching repos: {e}")
         return []
 
-    # Filter out forks and sort by stars
     repos = [r for r in repos if not r.get('fork', False)]
     repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
     return repos[:MAX_REPOS]
 
-def generate_markdown_table(repos):
-    table = "| Project | ⭐ Stars | 🍴 Forks | Language |\n"
-    table += "| :--- | :---: | :---: | :--- |\n"
+def generate_repo_list(repos):
+    # This creates a text block for each repo instead of a table row
+    output = ""
     
     for r in repos:
         name = r['name']
         url = r['html_url']
-        desc = r['description'] or " "
+        desc = r['description'] or "No description provided."
         stars = r['stargazers_count']
         forks = r['forks_count']
-        lang = r['language'] or "Text"
         
-        # Sanitize description
-        desc = desc.replace("|", "-").replace("\n", " ")
-        if len(desc) > 80: desc = desc[:77] + "..."
+        # Clean description text
+        desc = desc.replace("\n", " ")
+        if len(desc) > 120: desc = desc[:117] + "..."
 
-        row = f"| **[{name}]({url})**<br>{desc} | {stars} | {forks} | {lang} |\n"
-        table += row
+        # FORMAT:
+        # **[Repo Name](link)**
+        # Description text
+        # ⭐ 12   🍴 4
         
-    return table
+        # We use <br> to force single-line breaks for a tighter "card" feel
+        entry = (
+            f"**[{name}]({url})**<br>"
+            f"{desc}<br>"
+            f"⭐ {stars} &emsp; 🍴 {forks}"
+            f"\n\n<br>\n\n" # Extra spacing between items
+        )
+        output += entry
+        
+    return output
 
-def update_readme(new_table):
+def update_readme(new_content):
     if not os.path.exists(README_PATH):
         print("README.md not found!")
         return
@@ -54,7 +84,6 @@ def update_readme(new_table):
     with open(README_PATH, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Find the positions of the markers
     start_pos = content.find(START_MARKER)
     end_pos = content.find(END_MARKER)
 
@@ -62,22 +91,11 @@ def update_readme(new_table):
         print(f"Error: Markers '{START_MARKER}' and '{END_MARKER}' not found in README.")
         return
 
-    # Validations to ensure we don't delete the whole file by accident
-    if end_pos < start_pos:
-        print("Error: End marker found before Start marker.")
-        return
-
-    # --- THE FIX: Precise String Splicing ---
-    # Keep everything BEFORE the start marker (including the marker itself)
     pre_content = content[:start_pos + len(START_MARKER)]
-    
-    # Keep everything AFTER the end marker (including the marker itself)
     post_content = content[end_pos:]
     
-    # Combine: Pre + New Table + Post
-    new_content = f"{pre_content}\n{new_table}\n{post_content}"
+    new_content = f"{pre_content}\n{new_content}\n{post_content}"
     
-    # Write only if changed
     if new_content != content:
         with open(README_PATH, 'w', encoding='utf-8') as f:
             f.write(new_content)
@@ -90,7 +108,8 @@ if __name__ == "__main__":
     if token:
         top_repos = get_top_repos(token)
         if top_repos:
-            table = generate_markdown_table(top_repos)
-            update_readme(table)
+            # Note: We are calling the new list generator function here
+            repo_list = generate_repo_list(top_repos)
+            update_readme(repo_list)
     else:
         print("GITHUB_TOKEN not found.")

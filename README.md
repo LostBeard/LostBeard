@@ -20,6 +20,8 @@
 ![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg)
 
 ### 🏆 Top Repositories
+<!-- PINS_START -->
+<!-- PINS_END -->
 
 ### Interests
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)

@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg?t=1)
 
 ### Blazor WebAssembly can do everything Javascript can. 
 - [SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) gives Blazor WebAssembly access to all of Javascript's [Web Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API).  

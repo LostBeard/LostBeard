@@ -7,18 +7,46 @@
 
 ### 🏆 Top Repositories
 <!-- PINS_START -->
-| Project | ⭐ Stars | 🍴 Forks | Language |
-| :--- | :---: | :---: | :--- |
-| **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data ... | 150 | 11 | C# |
-| **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>Easily call Services in separate threads with WebWorkers and SharedWebWorkers... | 37 | 1 | C# |
-| **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support ... | 16 | 1 | HTML |
-| **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>ffmpeg.wasm for Blazor WebAssembly | 15 | 0 | C# |
-| **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board | 14 | 1 | HTML |
-| **[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app | 13 | 1 | C# |
-| **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>WebTorrent peer to peer file sharing for Blazor WebAssembly | 12 | 1 | C# |
-| **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>An extendable .Net library for reading and writing Extensible Binary Meta Lan... | 11 | 2 | C# |
-| **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for... | 10 | 1 | C# |
-| **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly | 10 | 2 | C# |
+**[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>⭐ 150 &emsp; 🍴 11
+
+<br>
+
+**[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>⭐ 37 &emsp; 🍴 1
+
+<br>
+
+**[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>⭐ 16 &emsp; 🍴 1
+
+<br>
+
+**[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>ffmpeg.wasm for Blazor WebAssembly<br>⭐ 15 &emsp; 🍴 0
+
+<br>
+
+**[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>⭐ 14 &emsp; 🍴 1
+
+<br>
+
+**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 13 &emsp; 🍴 1
+
+<br>
+
+**[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>WebTorrent peer to peer file sharing for Blazor WebAssembly<br>⭐ 12 &emsp; 🍴 1
+
+<br>
+
+**[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>⭐ 11 &emsp; 🍴 2
+
+<br>
+
+**[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>⭐ 10 &emsp; 🍴 1
+
+<br>
+
+**[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly<br>⭐ 10 &emsp; 🍴 2
+
+<br>
+
 
 <!-- PINS_END -->
 

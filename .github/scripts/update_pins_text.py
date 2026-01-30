@@ -1,11 +1,12 @@
 import os
-import re
 import requests
 
 # --- CONFIGURATION ---
 USERNAME = "LostBeard"
-MAX_REPOS = 10  # Increase this to whatever number you want
+MAX_REPOS = 10
 README_PATH = "README.md"
+START_MARKER = ""
+END_MARKER = ""
 
 def get_top_repos(token):
     headers = {"Authorization": f"token {token}"}
@@ -22,61 +23,74 @@ def get_top_repos(token):
     # Filter out forks and sort by stars
     repos = [r for r in repos if not r.get('fork', False)]
     repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
-    
     return repos[:MAX_REPOS]
 
 def generate_markdown_table(repos):
-    # Table Header
     table = "| Project | ⭐ Stars | 🍴 Forks | Language |\n"
     table += "| :--- | :---: | :---: | :--- |\n"
     
     for r in repos:
         name = r['name']
         url = r['html_url']
-        desc = r['description'] if r['description'] else " "
+        desc = r['description'] or " "
         stars = r['stargazers_count']
         forks = r['forks_count']
-        # Handle cases where language is None
-        lang = r['language'] if r['language'] else "Text"
+        lang = r['language'] or "Text"
         
-        # Clean description to prevent breaking the table (remove pipes and newlines)
+        # Sanitize description
         desc = desc.replace("|", "-").replace("\n", " ")
-        
-        # Limit description length to keep table tidy (optional)
-        if len(desc) > 100:
-            desc = desc[:97] + "..."
+        if len(desc) > 80: desc = desc[:77] + "..."
 
-        # Format: **[Name](Link)** <br> Description | Stars | Forks | Lang
         row = f"| **[{name}]({url})**<br>{desc} | {stars} | {forks} | {lang} |\n"
         table += row
         
     return table
 
-def update_readme(new_content):
+def update_readme(new_table):
     if not os.path.exists(README_PATH):
         print("README.md not found!")
         return
 
     with open(README_PATH, 'r', encoding='utf-8') as f:
-        readme = f.read()
+        content = f.read()
 
-    # Regex to look for the markers
-    pattern = r'()(.*?)()'
-    replacement = f'\\1\n{new_content}\n\\3'
-    
-    # Check if markers exist
-    if not re.search(pattern, readme, flags=re.DOTALL):
-        print("Markers not found in README.md. Please add and ")
+    # Find the positions of the markers
+    start_pos = content.find(START_MARKER)
+    end_pos = content.find(END_MARKER)
+
+    if start_pos == -1 or end_pos == -1:
+        print(f"Error: Markers '{START_MARKER}' and '{END_MARKER}' not found in README.")
         return
 
-    new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+    # Validations to ensure we don't delete the whole file by accident
+    if end_pos < start_pos:
+        print("Error: End marker found before Start marker.")
+        return
+
+    # --- THE FIX: Precise String Splicing ---
+    # Keep everything BEFORE the start marker (including the marker itself)
+    pre_content = content[:start_pos + len(START_MARKER)]
     
-    with open(README_PATH, 'w', encoding='utf-8') as f:
-        f.write(new_readme)
+    # Keep everything AFTER the end marker (including the marker itself)
+    post_content = content[end_pos:]
+    
+    # Combine: Pre + New Table + Post
+    new_content = f"{pre_content}\n{new_table}\n{post_content}"
+    
+    # Write only if changed
+    if new_content != content:
+        with open(README_PATH, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print("README.md updated successfully.")
+    else:
+        print("No changes needed.")
 
 if __name__ == "__main__":
     token = os.environ.get("GITHUB_TOKEN")
-    top_repos = get_top_repos(token)
-    if top_repos:
-        markdown_table = generate_markdown_table(top_repos)
-        update_readme(markdown_table)
+    if token:
+        top_repos = get_top_repos(token)
+        if top_repos:
+            table = generate_markdown_table(top_repos)
+            update_readme(table)
+    else:
+        print("GITHUB_TOKEN not found.")

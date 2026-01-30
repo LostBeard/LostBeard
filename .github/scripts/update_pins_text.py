@@ -5,8 +5,8 @@ import requests
 USERNAME = "LostBeard"
 MAX_REPOS = 10
 README_PATH = "README.md"
-START_MARKER = ""
-END_MARKER = ""
+START_MARKER = "<!-- PINS_START -->"
+END_MARKER = "<!-- PINS_END -->"
 
 def get_top_repos(token):
     headers = {"Authorization": f"token {token}"}

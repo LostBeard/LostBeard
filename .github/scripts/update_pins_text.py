@@ -49,7 +49,7 @@ def generate_repo_list(repos):
             f"**[{name}]({url})**<br>"
             f"{desc}<br>"
             f"⭐ {stars} &emsp; 🍴 {forks}"
-            f"\n\n<br>\n\n" # Extra spacing between items
+            f"\n\n" # Extra spacing between items
         )
         output += entry
         

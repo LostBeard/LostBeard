@@ -15,7 +15,7 @@
 
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>⭐ 14 &emsp; 🍴 1
 
-**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 13 &emsp; 🍴 1
+**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 14 &emsp; 🍴 1
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>WebTorrent peer to peer file sharing for Blazor WebAssembly<br>⭐ 12 &emsp; 🍴 1
 

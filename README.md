@@ -34,6 +34,8 @@
 
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>⭐ 7 &emsp; 🍴 1
 
+**[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>⭐ 6 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>⭐ 6 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>MessagePack Javascript library for Blazor WebAssembly<br>⭐ 5 &emsp; 🍴 0
@@ -43,8 +45,6 @@
 **[SpawnDev.Blazor.QRCodeRenderer](https://github.com/LostBeard/SpawnDev.Blazor.QRCodeRenderer)**<br>Blazor QRCode renderer based on QRCoder<br>⭐ 5 &emsp; 🍴 1
 
 **[SpawnDev.BlazorJS.Cryptography](https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography)**<br>A cross platform cryptography library that supports encryption with AES-GCM and AES-CBC, shared secret generation wit...<br>⭐ 4 &emsp; 🍴 1
-
-**[SpawnDev.BlazorJS.VisNetwork](https://github.com/LostBeard/SpawnDev.BlazorJS.VisNetwork)**<br>VisNetwork in Blazor WebAssembly<br>⭐ 4 &emsp; 🍴 1
 
 
 <!-- PINS_END -->

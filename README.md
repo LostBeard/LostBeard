@@ -1,7 +1,7 @@
 <!--  ![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg?t=1)  -->
 ### Blazor WebAssembly can do everything Javascript can. 
 🧱 [SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS) - Access to all of Javascript's [Web Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API) in Blazor WebAssembly.  
-⚡ [SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU) - Run [ILGPU](https://github.com/m4rs-mt/ILGPU) kernels in Blazor WebAssembly via WebGPU, Web Workers, or CPU.  
+⚡ [SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU) - Run [ILGPU](https://github.com/m4rs-mt/ILGPU) kernels in Blazor Wasm: WebGPU⚡⚡⚡, Wasm⚡⚡, Workers⚡, and CPU🐢  
 ⚙️ [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers) - Run Blazor WebAssembly in [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) and [service workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API).  
 🚀 Write fast, fully functional Blazor WebAssembly apps in 100% C#. See below for examples.  
 

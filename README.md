@@ -26,13 +26,13 @@
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly<br>⭐ 10 &emsp; 🍴 2
 
+**[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>⭐ 8 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>Create Blazor WASM Manifest V3 web browser extensions<br>⭐ 8 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>⭐ 7 &emsp; 🍴 1
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>⭐ 7 &emsp; 🍴 0
-
-**[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>⭐ 7 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.SimplePeer](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)**<br>SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>⭐ 7 &emsp; 🍴 0
 

@@ -1,7 +1,7 @@
 <!--  ![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg?t=1)  -->
 ## Blazor WebAssembly can do everything Javascript can. 
 
-**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>Run massively parallel C# [ILGPU](https://github.com/m4rs-mt/ILGPU) kernels in the browser with Blazor WebAssembly (WebGPU, WebGL, Wasm) and on the desktop (Cuda, OpenCL, CPU).
+**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>Run massively parallel C# [ILGPU](https://github.com/m4rs-mt/ILGPU) kernels in the browser with Blazor WebAssembly (WebGPU, WebGL, Wasm) and on the desktop (Cuda, OpenCL, CPU).<br>⭐ 3 &emsp; 🍴 0
   
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>⭐ 151 &emsp; 🍴 11

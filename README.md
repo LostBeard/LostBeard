@@ -18,9 +18,9 @@
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>WebTorrent peer to peer file sharing for Blazor WebAssembly<br>⭐ 12 &emsp; 🍴 1
 
-**[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>⭐ 11 &emsp; 🍴 2
+**[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>⭐ 11 &emsp; 🍴 1
 
-**[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>⭐ 10 &emsp; 🍴 1
+**[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>⭐ 11 &emsp; 🍴 2
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly<br>⭐ 10 &emsp; 🍴 2
 

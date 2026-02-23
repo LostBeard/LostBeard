@@ -36,13 +36,13 @@
 
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>⭐ 6 &emsp; 🍴 0
 
-**[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>MessagePack Javascript library for Blazor WebAssembly<br>⭐ 5 &emsp; 🍴 0
+**[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>⭐ 6 &emsp; 🍴 0
 
-**[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>⭐ 5 &emsp; 🍴 0
+**[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>MessagePack Javascript library for Blazor WebAssembly<br>⭐ 5 &emsp; 🍴 0
 
 **[SpawnDev.Blazor.QRCodeRenderer](https://github.com/LostBeard/SpawnDev.Blazor.QRCodeRenderer)**<br>Blazor QRCode renderer based on QRCoder<br>⭐ 5 &emsp; 🍴 1
 
-**[SpawnDev.BlazorJS.Cryptography](https://github.com/LostBeard/SpawnDev.BlazorJS.Cryptography)**<br>A cross platform cryptography library that supports encryption with AES-GCM and AES-CBC, shared secret generation wit...<br>⭐ 4 &emsp; 🍴 1
+**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 4 &emsp; 🍴 0
 
 
 <!-- PINS_END -->

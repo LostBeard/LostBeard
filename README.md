@@ -12,7 +12,7 @@
 
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>ffmpeg.wasm for Blazor WebAssembly<br>⭐ 15 &emsp; 🍴 0
 
-**[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>⭐ 14 &emsp; 🍴 1
+**[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>⭐ 15 &emsp; 🍴 1
 
 **[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 14 &emsp; 🍴 1
 

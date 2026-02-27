@@ -28,6 +28,8 @@
 
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>Create Blazor WASM Manifest V3 web browser extensions<br>⭐ 8 &emsp; 🍴 0
 
+**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 7 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>⭐ 7 &emsp; 🍴 1
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>⭐ 7 &emsp; 🍴 0
@@ -41,8 +43,6 @@
 **[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>MessagePack Javascript library for Blazor WebAssembly<br>⭐ 5 &emsp; 🍴 0
 
 **[SpawnDev.Blazor.QRCodeRenderer](https://github.com/LostBeard/SpawnDev.Blazor.QRCodeRenderer)**<br>Blazor QRCode renderer based on QRCoder<br>⭐ 5 &emsp; 🍴 1
-
-**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 4 &emsp; 🍴 0
 
 
 <!-- PINS_END -->

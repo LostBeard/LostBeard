@@ -4,7 +4,7 @@
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 7 &emsp; 🍴 0
   
 <!-- PINS_START -->
-**[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>⭐ 151 &emsp; 🍴 11
+**[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>⭐ 152 &emsp; 🍴 11
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>⭐ 37 &emsp; 🍴 1
 
@@ -24,11 +24,11 @@
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly<br>⭐ 10 &emsp; 🍴 2
 
+**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 8 &emsp; 🍴 0
+
 **[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>⭐ 8 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>Create Blazor WASM Manifest V3 web browser extensions<br>⭐ 8 &emsp; 🍴 0
-
-**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 7 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>⭐ 7 &emsp; 🍴 1
 

@@ -11,15 +11,15 @@
 
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>⭐ 15 &emsp; 🍴 1
 
-**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 14 &emsp; 🍴 1
+**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>Basic example of how to compile C# inside a Blazor WASM app<br>⭐ 15 &emsp; 🍴 1
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>WebTorrent peer to peer file sharing for Blazor WebAssembly<br>⭐ 12 &emsp; 🍴 1
+
+**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 11 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>⭐ 11 &emsp; 🍴 1
 
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>⭐ 11 &emsp; 🍴 2
-
-**[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>.Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>⭐ 10 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>OpenCVSharp4 for Blazor WebAssembly<br>⭐ 10 &emsp; 🍴 2
 

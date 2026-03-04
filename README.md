@@ -33,13 +33,13 @@
 
 **[SpawnDev.BlazorJS.SimplePeer](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)**<br>SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>⭐ 7 &emsp; 🍴 0
 
+**[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>⭐ 6 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>⭐ 6 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>⭐ 6 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>MessagePack Javascript library for Blazor WebAssembly<br>⭐ 5 &emsp; 🍴 0
-
-**[SpawnDev.Blazor.QRCodeRenderer](https://github.com/LostBeard/SpawnDev.Blazor.QRCodeRenderer)**<br>Blazor QRCode renderer based on QRCoder<br>⭐ 5 &emsp; 🍴 1
 
 
 <!-- PINS_END -->

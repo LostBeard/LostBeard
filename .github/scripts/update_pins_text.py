@@ -77,24 +77,28 @@ def generate_repo_list(repos, token=None):
         if len(desc) > 120: desc = desc[:117] + "..."
 
         # Check for NuGet links in the repo's README
-        nuget_section = ""
+        nuget_badges = ""
         if token:
             readme_content = get_repo_readme(token, name)
             nuget_links = extract_nuget_links(readme_content)
             if nuget_links:
-                nuget_items = " &emsp; ".join([f"[📦 {link.split('/')[-1]}]({link})" for link in nuget_links])
-                nuget_section = f" &emsp; {nuget_items}"
+                badges = " ".join(
+                    f'[![{link.split("/")[-1]}](https://img.shields.io/nuget/dt/{link.split("/")[-1]}.svg?label={link.split("/")[-1]})]({link})'
+                    for link in nuget_links
+                )
+                nuget_badges = f"  <br>\n{badges}"
 
         # FORMAT:
         # **[Repo Name](link)**
         # Description text
-        # ⭐ 12   🍴 4   📦 PackageName
+        # ⭐ 12   🍴 4  <br>
+        # [![PackageName](badge_url)](nuget_url)
         
         # We use <br> to force single-line breaks for a tighter "card" feel
         entry = (
-            f"**[{name}]({url})**<br>"
-            f"{desc}<br>"
-            f"⭐ {stars} &emsp; 🍴 {forks}{nuget_section}"
+            f"**[{name}]({url})**<br>\n"
+            f"{desc}<br>\n"
+            f"⭐ {stars} &emsp; 🍴 {forks}{nuget_badges}"
             f"\n\n" # Extra spacing between items
         )
         output += entry

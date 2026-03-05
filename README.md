@@ -1,4 +1,16 @@
-<!--  ![Metrics](https://raw.githubusercontent.com/LostBeard/LostBeard/refs/heads/main/github-metrics.svg?t=1)  -->
+## 🛠️ Help Me Build the Future of WebGPU & AI
+
+I am a full-time open-source developer dedicated to making high-performance computing accessible in Blazor and WebAssembly. My goal is to keep the **SpawnDev** ecosystem free, robust, and cutting-edge.
+
+However, the hardware and API requirements for modern AI development are significant. I’m currently developing on a modest **16GB machine**, which limits how quickly I can test and iterate across multiple GPU backends.
+
+**How you can help:**
+By becoming a sponsor, you help offset the costs of:
+* **Hardware Upgrades:** Moving to a 64GB/128GB environment for multi-threaded testing.
+* **AI Research:** Funding the API costs that allow me to integrate advanced Transformers and Depth Estimation into the web.
+* **Maintenance:** Keeping SpawnDev.ILGPU and SpawnDev.BlazorJS updated and bug-free.
+
+**[Become a Sponsor](https://github.com/sponsors/LostBeard)** — *Thank you for supporting independent open-source software!*
 
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>⭐ 152 &emsp; 🍴 11

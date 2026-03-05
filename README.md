@@ -16,12 +16,12 @@ By becoming a sponsor, you help offset the costs of:
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>
 Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>
 ⭐ 152 &emsp; 🍴 11  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS">
+[![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
 Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>
 ⭐ 37 &emsp; 🍴 1  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers">
+[![SpawnDev.BlazorJS.WebWorkers](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebWorkers)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
 This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>
@@ -30,7 +30,7 @@ This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
 ffmpeg.wasm for Blazor WebAssembly<br>
 ⭐ 15 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.svg?label=SpawnDev.BlazorJS.FFmpegWasm"> <img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.Core.svg?label=SpawnDev.BlazorJS.FFmpegWasm.Core"> <img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.CoreMT.svg?label=SpawnDev.BlazorJS.FFmpegWasm.CoreMT">
+[![SpawnDev.BlazorJS.FFmpegWasm](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.svg?label=SpawnDev.BlazorJS.FFmpegWasm)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm) [![SpawnDev.BlazorJS.FFmpegWasm.Core](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.Core.svg?label=SpawnDev.BlazorJS.FFmpegWasm.Core)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.Core) [![SpawnDev.BlazorJS.FFmpegWasm.CoreMT](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.CoreMT.svg?label=SpawnDev.BlazorJS.FFmpegWasm.CoreMT)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.CoreMT)
 
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
 Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
@@ -43,32 +43,32 @@ Basic example of how to compile C# inside a Blazor WASM app<br>
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 ⭐ 12 &emsp; 🍴 1  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebTorrents.svg?label=SpawnDev.BlazorJS.WebTorrents"> <img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS">
+[![SpawnDev.BlazorJS.WebTorrents](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebTorrents.svg?label=SpawnDev.BlazorJS.WebTorrents)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebTorrents) [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
 ⭐ 11 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU">
+[![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>
 PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>
 ⭐ 11 &emsp; 🍴 1  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS">
+[![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
 An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
 ⭐ 11 &emsp; 🍴 2  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML">
+[![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML)
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>
 OpenCVSharp4 for Blazor WebAssembly<br>
 ⭐ 10 &emsp; 🍴 2  <br>
-<img src="https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4"> <img src="https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm">
+[![OpenCvSharp4](https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4)](https://www.nuget.org/packages/OpenCvSharp4) [![OpenCvSharp4.runtime.wasm](https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm)](https://www.nuget.org/packages/OpenCvSharp4.runtime.wasm)
 
 **[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>
 WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 ⭐ 8 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU">
+[![SpawnDev.ILGPU.WebGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU.WebGPU)
 
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>
 Create Blazor WASM Manifest V3 web browser extensions<br>
@@ -77,37 +77,37 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
 Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
 ⭐ 7 &emsp; 🍴 1  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS">
+[![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PeerJS.svg?label=SpawnDev.BlazorJS.PeerJS">
+[![SpawnDev.BlazorJS.PeerJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PeerJS.svg?label=SpawnDev.BlazorJS.PeerJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PeerJS)
 
 **[SpawnDev.BlazorJS.SimplePeer](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)**<br>
 SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer"> <img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer">
+[![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
 
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
 ⭐ 6 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS"> <img src="https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU">
+[![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>
 Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>
 ⭐ 6 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SocketIO.svg?label=SpawnDev.BlazorJS.SocketIO">
+[![SpawnDev.BlazorJS.SocketIO](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SocketIO.svg?label=SpawnDev.BlazorJS.SocketIO)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SocketIO)
 
 **[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>
 Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>
 ⭐ 6 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner">
+[![SpawnDev.BlazorJS.CodeRunner](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner)](https://www.nuget.org/packages/SpawnDev.BlazorJS.CodeRunner)
 
 **[SpawnDev.BlazorJS.MessagePack](https://github.com/LostBeard/SpawnDev.BlazorJS.MessagePack)**<br>
 MessagePack Javascript library for Blazor WebAssembly<br>
 ⭐ 5 &emsp; 🍴 0  <br>
-<img src="https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.MessagePack.svg?label=SpawnDev.BlazorJS.MessagePack">
+[![SpawnDev.BlazorJS.MessagePack](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.MessagePack.svg?label=SpawnDev.BlazorJS.MessagePack)](https://www.nuget.org/packages/SpawnDev.BlazorJS.MessagePack)
 
 
 <!-- PINS_END -->

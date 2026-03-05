@@ -83,7 +83,7 @@ def generate_repo_list(repos, token=None):
             nuget_links = extract_nuget_links(readme_content)
             if nuget_links:
                 badges = " ".join(
-                    f'<img src="https://img.shields.io/nuget/dt/{link.split("/")[-1]}.svg?label={link.split("/")[-1]}">'
+                    f'[![{link.split("/")[-1]}](https://img.shields.io/nuget/dt/{link.split("/")[-1]}.svg?label={link.split("/")[-1]})]({link})'
                     for link in nuget_links
                 )
                 nuget_badges = f"  <br>\n{badges}"
@@ -92,7 +92,7 @@ def generate_repo_list(repos, token=None):
         # **[Repo Name](link)**
         # Description text
         # ⭐ 12   🍴 4  <br>
-        # <img nuget-download-badge>
+        # [![PackageName](badge_url)](nuget_url)
         
         # We use <br> to force single-line breaks for a tighter "card" feel
         entry = (

@@ -1,4 +1,6 @@
+import base64
 import os
+import re
 import requests
 
 # --- CONFIGURATION ---
@@ -24,7 +26,42 @@ def get_top_repos(token):
     repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
     return repos[:MAX_REPOS]
 
-def generate_repo_list(repos):
+def get_repo_readme(token, repo_name):
+    """Fetch the decoded README.md content for a repository via the GitHub API."""
+    headers = {"Authorization": f"token {token}"}
+    url = f"https://api.github.com/repos/{USERNAME}/{repo_name}/readme"
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            content = base64.b64decode(data['content']).decode('utf-8')
+            return content
+        else:
+            print(f"Failed to fetch README for {repo_name}: HTTP {response.status_code}")
+    except Exception as e:
+        print(f"Error fetching README for {repo_name}: {e}")
+    return None
+
+def extract_nuget_links(readme_content):
+    """Extract unique NuGet package URLs from README content."""
+    if not readme_content:
+        return []
+    # Match nuget.org package URLs, optionally with a version segment
+    pattern = r'https://www\.nuget\.org/packages/[A-Za-z0-9._-]+(?:/[A-Za-z0-9._-]+)?/?'
+    links = re.findall(pattern, readme_content)
+    seen = set()
+    unique_links = []
+    for link in links:
+        # Normalize to canonical package URL (strip version segment and trailing slash)
+        pkg_match = re.search(r'/packages/([A-Za-z0-9._-]+)', link)
+        if pkg_match:
+            canonical = f"https://www.nuget.org/packages/{pkg_match.group(1)}"
+            if canonical not in seen:
+                seen.add(canonical)
+                unique_links.append(canonical)
+    return unique_links
+
+def generate_repo_list(repos, token=None):
     # This creates a text block for each repo instead of a table row
     output = ""
     
@@ -39,16 +76,25 @@ def generate_repo_list(repos):
         desc = desc.replace("\n", " ")
         if len(desc) > 120: desc = desc[:117] + "..."
 
+        # Check for NuGet links in the repo's README
+        nuget_section = ""
+        if token:
+            readme_content = get_repo_readme(token, name)
+            nuget_links = extract_nuget_links(readme_content)
+            if nuget_links:
+                nuget_items = " &emsp; ".join([f"[📦 {link.split('/')[-1]}]({link})" for link in nuget_links])
+                nuget_section = f" &emsp; {nuget_items}"
+
         # FORMAT:
         # **[Repo Name](link)**
         # Description text
-        # ⭐ 12   🍴 4
+        # ⭐ 12   🍴 4   📦 PackageName
         
         # We use <br> to force single-line breaks for a tighter "card" feel
         entry = (
             f"**[{name}]({url})**<br>"
             f"{desc}<br>"
-            f"⭐ {stars} &emsp; 🍴 {forks}"
+            f"⭐ {stars} &emsp; 🍴 {forks}{nuget_section}"
             f"\n\n" # Extra spacing between items
         )
         output += entry
@@ -88,7 +134,7 @@ if __name__ == "__main__":
         top_repos = get_top_repos(token)
         if top_repos:
             # Note: We are calling the new list generator function here
-            repo_list = generate_repo_list(top_repos)
+            repo_list = generate_repo_list(top_repos, token)
             update_readme(repo_list)
     else:
         print("GITHUB_TOKEN not found.")

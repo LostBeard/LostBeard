@@ -70,14 +70,14 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 ⭐ 8 &emsp; 🍴 0  <br>
 [![SpawnDev.ILGPU.WebGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU.WebGPU)
 
+**[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
+Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
+⭐ 8 &emsp; 🍴 1  <br>
+[![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
+
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>
 Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 8 &emsp; 🍴 0
-
-**[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
-Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
-⭐ 7 &emsp; 🍴 1  <br>
-[![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>

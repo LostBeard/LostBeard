@@ -12,7 +12,7 @@ By becoming a sponsor, you help offset the costs of:
 
 **[Become a Sponsor](https://github.com/sponsors/LostBeard)** — *Thank you for supporting independent open-source software!*
 
-## A nerd and his AI
+## My origin story
 Want to know the real me? Read this conversation I had with Claude in the Claude app while using Claude in Cursor during one of my 17 hour coding sessions. My single coding session outlasted Claude's conversation memory. 
 - https://claude.ai/share/25f8b4c7-40dd-4c92-b80e-b6df16f69064
 

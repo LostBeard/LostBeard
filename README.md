@@ -99,6 +99,10 @@ Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>
 ⭐ 6 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.CodeRunner](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner)](https://www.nuget.org/packages/SpawnDev.BlazorJS.CodeRunner)
 
+**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+⭐ 6 &emsp; 🍴 0
+
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
 ⭐ 6 &emsp; 🍴 0  <br>
@@ -108,10 +112,6 @@ Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs 
 Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>
 ⭐ 6 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SocketIO](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SocketIO.svg?label=SpawnDev.BlazorJS.SocketIO)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SocketIO)
-
-**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 5 &emsp; 🍴 0
 
 
 <!-- PINS_END -->

@@ -1,5 +1,5 @@
 
-### 💬 Quotes
+## 💬 Quotes
 
 #### "Live long and prosper." - Spock
 

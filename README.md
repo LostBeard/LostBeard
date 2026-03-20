@@ -1,4 +1,6 @@
-## "I don't believe in the no-win scenario." - James T. Kirk
+## Favorite quotes
+- "I don't believe in the no-win scenario." - James T. Kirk
+- "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
 
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 

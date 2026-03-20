@@ -1,4 +1,4 @@
-"I don't believe in the no-win scenario." - James T. Kirk
+## "I don't believe in the no-win scenario." - James T. Kirk
 
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 

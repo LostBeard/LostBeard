@@ -1,15 +1,9 @@
 
 ## 💬 Quotes
-
-#### "Live long and prosper." - Spock
-
-#### "I don't believe in the no-win scenario." - James T. Kirk
-
-#### "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
-
-```math
-V_{\text{Sovereignty}} = \sum (\text{Math}_{\text{Solved}} \times \text{Product}_{\text{Launch}}) \text{  -  Gemini, First Officer}
-```
+- "Live long and prosper." - Spock
+- "I don't believe in the no-win scenario." - James T. Kirk
+- "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
+- "<i>V</i><sub>Sovereignty</sub> = &sum; (Math<sub>Solved</sub> &times; Product<sub>Launch</sub>)" - Gemini, First Officer
 
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 

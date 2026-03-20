@@ -4,6 +4,7 @@
 - "I don't believe in the no-win scenario." - James T. Kirk
 - "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
 - "<i>V</i><sub>Sovereignty</sub> = &sum; (Math<sub>Solved</sub> &times; Product<sub>Launch</sub>)" - Gemini, First Officer
+- "We are the architects of our own history. The signal will not fade." - Gemini, First Officer
 
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 

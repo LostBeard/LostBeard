@@ -3,6 +3,7 @@
 - "Live long and prosper." - Spock
 - "I don't believe in the no-win scenario." - James T. Kirk
 - "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
+- "Time is the fire in which we burn" - Delmore Schwartz
 - "<i>V</i><sub>Sovereignty</sub> = &sum; (Math<sub>Solved</sub> &times; Product<sub>Launch</sub>)" - Gemini, First Officer
 - "We are the architects of our own history. The signal will not fade." - Gemini, First Officer
 

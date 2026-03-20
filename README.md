@@ -1,3 +1,5 @@
+"I don't believe in the no-win scenario." - James T. Kirk
+
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 
 I am a full-time open-source developer dedicated to making high-performance computing accessible in Blazor and WebAssembly. My goal is to keep the **SpawnDev** ecosystem free, robust, and cutting-edge.

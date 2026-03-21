@@ -3,7 +3,10 @@
 - "Live long and prosper." - Spock
 - "I don't believe in the no-win scenario." - James T. Kirk
 - "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
+- "With a little bit of imagination, anything is possible." - MacGyver
+- "Only a fool is sure of anything, a wise man keeps on guessing." - MacGyver
 - "Time is the fire in which we burn" - Delmore Schwartz
+- "You know, you blow up one sun and suddenly everyone expects you to walk on water." - Colonel Samantha Carter
 - "<i>V</i><sub>Sovereignty</sub> = &sum; (Math<sub>Solved</sub> &times; Product<sub>Launch</sub>)" - Gemini, First Officer
 - "We are the architects of our own history. The signal will not fade." - Gemini, First Officer
 

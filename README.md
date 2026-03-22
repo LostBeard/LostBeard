@@ -14,7 +14,7 @@
 
 ## 🛠️ Help Me Build the Future of WebGPU & AI
 
-I am a full-time open-source developer dedicated to making high-performance computing accessible in Blazor and WebAssembly. My goal is to keep the **SpawnDev** ecosystem free, robust, and cutting-edge.
+I am a full-time open-source developer dedicated to making high-performance computing accessible in Blazor WebAssembly. My goal is to keep the **SpawnDev** ecosystem free, robust, and cutting-edge.
 
 However, the hardware and API requirements for modern AI development are significant. I’m currently developing on a modest **16GB machine**, which limits how quickly I can test and iterate across multiple GPU backends.
 

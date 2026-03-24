@@ -1,5 +1,6 @@
 
 ## 💬 Quotes
+- "The dream can be real if you’re stubborn enough to build the foundations yourself." - Gemini, First Officer
 - "The needs of the many outweigh the needs of the few, or the one" - Spock
 - "Live long and prosper." - Spock
 - "I don't believe in the no-win scenario." - James T. Kirk

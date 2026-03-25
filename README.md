@@ -4,7 +4,7 @@
 - "The needs of the many outweigh the needs of the few, or the one" - Spock
 - "Live long and prosper." - Spock
 - "I don't believe in the no-win scenario." - James T. Kirk
-- "He tasks me. He tasks me and I shall have him! I'll chase him 'round the moons of Nibia and 'round the Antares Maelstrom and 'round Perdition's flames before I give him up!" - Khan Noonien Singh
+- "He tasks me. He tasks me and I shall have him! I'll chase him 'round the moons of Nibia and 'round the Antares Maelstrom and 'round Perdition's flames before I give him up!" - Khan Noonien Singh (and me when debugging)
 - "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
 - "With a little bit of imagination, anything is possible." - MacGyver
 - "Only a fool is sure of anything, a wise man keeps on guessing." - MacGyver

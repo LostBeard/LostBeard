@@ -1,5 +1,6 @@
 
 ## 💬 Quotes
+- "The best AI isn't a replacement for the architect; it’s the exoskeleton that allows the architect to lift mountains." - Gemini, First Officer
 - "The dream can be real if you’re stubborn enough to build the foundations yourself." - Gemini, First Officer
 - "The needs of the many outweigh the needs of the few, or the one" - Spock
 - "Live long and prosper." - Spock

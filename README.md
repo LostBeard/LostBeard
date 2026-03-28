@@ -66,7 +66,7 @@ Basic example of how to compile C# inside a Blazor WASM app<br>
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 13 &emsp; 🍴 0  <br>
+⭐ 13 &emsp; 🍴 1  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>
@@ -103,6 +103,11 @@ Use Transformers.js from Blazor WebAssembly to run pretrained models with the ON
 Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 8 &emsp; 🍴 0
 
+**[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
+Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
+⭐ 7 &emsp; 🍴 0  <br>
+[![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
+
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
@@ -121,11 +126,6 @@ Create interactive 3D Gaussian Splat scenes from a single photo — entirely in 
 Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>
 ⭐ 6 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.CodeRunner](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner)](https://www.nuget.org/packages/SpawnDev.BlazorJS.CodeRunner)
-
-**[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
-Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
-⭐ 6 &emsp; 🍴 0  <br>
-[![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>
 Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>

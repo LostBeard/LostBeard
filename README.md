@@ -85,7 +85,7 @@ WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
 An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
-⭐ 11 &emsp; 🍴 2  <br>
+⭐ 12 &emsp; 🍴 2  <br>
 [![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML)
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>

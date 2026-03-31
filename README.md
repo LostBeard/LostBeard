@@ -73,7 +73,7 @@ Basic example of how to compile C# inside a Blazor WASM app<br>
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
 ⭐ 13 &emsp; 🍴 1  <br>
-[![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
+[![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU) [![SpawnDev.ILGPU.P2P](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.P2P.svg?label=SpawnDev.ILGPU.P2P)](https://www.nuget.org/packages/SpawnDev.ILGPU.P2P)
 
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>
 PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>
@@ -109,6 +109,10 @@ Use Transformers.js from Blazor WebAssembly to run pretrained models with the ON
 Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 8 &emsp; 🍴 0
 
+**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+⭐ 7 &emsp; 🍴 0
+
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
 ⭐ 7 &emsp; 🍴 0  <br>
@@ -123,10 +127,6 @@ PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembl
 SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
-
-**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 6 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>
 Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>

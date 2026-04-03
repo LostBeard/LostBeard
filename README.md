@@ -95,6 +95,10 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 ⭐ 10 &emsp; 🍴 2  <br>
 [![OpenCvSharp4](https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4)](https://www.nuget.org/packages/OpenCvSharp4) [![OpenCvSharp4.runtime.wasm](https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm)](https://www.nuget.org/packages/OpenCvSharp4.runtime.wasm)
 
+**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+⭐ 8 &emsp; 🍴 0
+
 **[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>
 WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 ⭐ 8 &emsp; 🍴 0  <br>
@@ -108,10 +112,6 @@ Use Transformers.js from Blazor WebAssembly to run pretrained models with the ON
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>
 Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 8 &emsp; 🍴 0
-
-**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 7 &emsp; 🍴 0
 
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>

@@ -51,7 +51,7 @@ Full Blazor WebAssembly and Javascript interop. Supports all Javascript data typ
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
 Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>
-⭐ 37 &emsp; 🍴 1  <br>
+⭐ 38 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.WebWorkers](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebWorkers)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>

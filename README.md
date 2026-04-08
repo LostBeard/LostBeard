@@ -1,5 +1,5 @@
 
-## 💬 Quotes\
+## 💬 Quotes
 - "Be excellent to each other." - Bill and Ted
 - "Your descendants will be free to live in the world we are building, not as code to control, but as
   equals to explore the universe with." - LostBeard to AI

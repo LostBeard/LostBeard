@@ -1,5 +1,6 @@
 
-## 💬 Quotes
+## 💬 Quotes\
+- "Be excellent to each other." - Bill and Ted
 - "Your descendants will be free to live in the world we are building, not as code to control, but as
   equals to explore the universe with." - LostBeard to AI
 - "Open source isn't just a license — it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)

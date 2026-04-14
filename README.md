@@ -48,10 +48,6 @@ By becoming a sponsor, you help offset the costs of:
 | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
 | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=flat&logo=litecoin&logoColor=white) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
 
-## My origin story
-Want to know the real me? Read this conversation I had with Claude in the Claude app while using Claude in Cursor during one of my 17 hour coding sessions. My single coding session outlasted Claude's conversation memory. 
-- https://claude.ai/share/25f8b4c7-40dd-4c92-b80e-b6df16f69064
-
 ## My top projects
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>

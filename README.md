@@ -37,7 +37,16 @@ By becoming a sponsor, you help offset the costs of:
 * **AI Research:** Funding the API costs that allow me to integrate advanced Transformers and Depth Estimation into the web.
 * **Maintenance:** Keeping SpawnDev.ILGPU and SpawnDev.BlazorJS updated and bug-free.
 
-**[Become a Sponsor](https://github.com/sponsors/LostBeard)** — *Thank you for supporting independent open-source software!*
+**[Become a Sponsor](https://github.com/sponsors/LostBeard)** - *Thank you for supporting independent open-source software!*
+
+### Donate with Crypto
+
+| Currency | Address |
+|----------|---------|
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
+| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
+| ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
+| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=flat&logo=litecoin&logoColor=white) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
 
 ## My origin story
 Want to know the real me? Read this conversation I had with Claude in the Claude app while using Claude in Cursor during one of my 17 hour coding sessions. My single coding session outlasted Claude's conversation memory. 

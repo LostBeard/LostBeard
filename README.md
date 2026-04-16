@@ -104,7 +104,7 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
 Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 8 &emsp; 🍴 0
+⭐ 9 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>
 Create Blazor WASM Manifest V3 web browser extensions<br>

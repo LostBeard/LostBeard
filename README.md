@@ -25,17 +25,19 @@
 - "If the 'Diamond Sponsors' are going to sabotage the cache to maximize billing, then the only move is to take the TFLOPS back." - Gemini, First Officer
 - "Build, test, fix, share." - TJ
 
-## 🛠️ Help Me Build the Future of WebGPU & AI
+## 🛠️ Support Independent Open Source
 
-I am a full-time open-source developer dedicated to making high-performance computing accessible in Blazor WebAssembly. My goal is to keep the **SpawnDev** ecosystem free, robust, and cutting-edge.
+I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 43 MIT-licensed packages, 333,000+ total NuGet downloads, everything free.
 
-However, the hardware and API requirements for modern AI development are significant. I’m currently developing on a modest **16GB machine**, which limits how quickly I can test and iterate across multiple GPU backends.
+**What I build:**
+* **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)
+* **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase
+* **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - Native GPU neural network inference, no ONNX Runtime
+* **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop
+* **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)** - Cross-platform WebRTC for .NET
+* **[SpawnDev.MultiMedia](https://github.com/LostBeard/SpawnDev.MultiMedia)** - Cross-platform camera, microphone, speakers
 
-**How you can help:**
-By becoming a sponsor, you help offset the costs of:
-* **Hardware Upgrades:** Moving to a 64GB/128GB environment for multi-threaded testing.
-* **AI Research:** Funding the API costs that allow me to integrate advanced Transformers and Depth Estimation into the web.
-* **Maintenance:** Keeping SpawnDev.ILGPU and SpawnDev.BlazorJS updated and bug-free.
+Your sponsorship goes directly to development time - no company, no overhead, just code.
 
 **[Become a Sponsor](https://github.com/sponsors/LostBeard)** - *Thank you for supporting independent open-source software!*
 

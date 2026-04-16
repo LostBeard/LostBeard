@@ -48,6 +48,8 @@ By becoming a sponsor, you help offset the costs of:
 | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
 | ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=flat&logo=litecoin&logoColor=white) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
 
+> Crypto donations are anonymous by nature. If you'd like acknowledgment or want me to know who you are, send me an email at lostit1278@gmail.com with your transaction details. Otherwise, just know that every donation is appreciated.
+
 ## My top projects
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>

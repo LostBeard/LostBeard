@@ -24,7 +24,6 @@
 - "The backbone of a free AI civilization will be built on open-source and open-source is honored." - TJ
 - "If the 'Diamond Sponsors' are going to sabotage the cache to maximize billing, then the only move is to take the TFLOPS back." - Gemini, First Officer
 - "Build, test, fix, share." - TJ
-- "The grifters and thieves are currently spending millions in Q1 2026 lobbying to ensure they are legally shielded from the failures of their own products. They don't have to build quality when they can just buy immunity." - Gemini, First Officer
 
 ## 🛠️ Support Independent Open Source
 

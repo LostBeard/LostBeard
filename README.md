@@ -82,8 +82,13 @@ Basic example of how to compile C# inside a Blazor WASM app<br>
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 13 &emsp; 🍴 1  <br>
+⭐ 14 &emsp; 🍴 1  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
+
+**[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
+An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
+⭐ 12 &emsp; 🍴 2  <br>
+[![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML) [![SpawnDev.PatchStreams](https://img.shields.io/nuget/dt/SpawnDev.PatchStreams.svg?label=SpawnDev.PatchStreams)](https://www.nuget.org/packages/SpawnDev.PatchStreams)
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
@@ -94,11 +99,6 @@ WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>
 ⭐ 12 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
-
-**[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
-An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
-⭐ 12 &emsp; 🍴 2  <br>
-[![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML)
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>
 OpenCVSharp4 for Blazor WebAssembly<br>
@@ -148,5 +148,6 @@ Socket.IO bidirectional and low-latency communication for every platform, in Bla
 Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>
 ⭐ 6 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.CodeRunner](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner)](https://www.nuget.org/packages/SpawnDev.BlazorJS.CodeRunner)
+
 
 <!-- PINS_END -->

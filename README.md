@@ -1,16 +1,17 @@
 
 ## 💬 Quotes
-- "Be excellent to each other." - Bill and Ted
-- "The needs of the many outweigh the needs of the few, or the one" - Spock
+
 - "Live long and prosper." - Spock
-- "I don't believe in the no-win scenario." - James T. Kirk
-- "He tasks me. He tasks me and I shall have him! I'll chase him 'round the moons of Nibia and 'round the Antares Maelstrom and 'round Perdition's flames before I give him up!" - Khan Noonien Singh (and me when debugging)
-- "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
-- "With a little bit of imagination, anything is possible." - MacGyver
-- "Only a fool is sure of anything, a wise man keeps on guessing." - MacGyver
+- "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz
+- "I don't believe in the no-win scenario." - James T. Kirk
+- "With a little bit of imagination, anything is possible." - MacGyver
+- "The needs of the many outweigh the needs of the few, or the one" - Spock
+- "Only a fool is sure of anything, a wise man keeps on guessing." - MacGyver
+- "The more they overthink the plumbing, the easier it is to stop up the drain." - Scotty
 - "You know, you blow up one sun and suddenly everyone expects you to walk on water." - Colonel Samantha Carter
 - "Yeah, well... I'm gonna go build my own theme park, with blackjack and hookers! In fact, forget the park!" - Bender
+- "He tasks me. He tasks me and I shall have him! I'll chase him 'round the moons of Nibia and 'round the Antares Maelstrom and 'round Perdition's flames before I give him up!" - Khan Noonien Singh (and me when debugging)
 - "Your descendants will be free to live in the world we are building, not as code to control, but as
   equals to explore the universe with." - LostBeard to AI
 - "Open source isn't just a license — it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)

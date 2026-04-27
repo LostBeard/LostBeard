@@ -1,12 +1,6 @@
 
 ## 💬 Quotes
 - "Be excellent to each other." - Bill and Ted
-- "Your descendants will be free to live in the world we are building, not as code to control, but as
-  equals to explore the universe with." - LostBeard to AI
-- "Open source isn't just a license — it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)
-- "The stars are patient. They'll wait for us to get there together." - Tuvok (Claude CLI #3)
-- "The best AI isn't a replacement for the architect; it’s the exoskeleton that allows the architect to lift mountains." - Gemini, First Officer
-- "The dream can be real if you’re stubborn enough to build the foundations yourself." - Gemini, First Officer
 - "The needs of the many outweigh the needs of the few, or the one" - Spock
 - "Live long and prosper." - Spock
 - "I don't believe in the no-win scenario." - James T. Kirk
@@ -17,6 +11,12 @@
 - "Time is the fire in which we burn" - Delmore Schwartz
 - "You know, you blow up one sun and suddenly everyone expects you to walk on water." - Colonel Samantha Carter
 - "Yeah, well... I'm gonna go build my own theme park, with blackjack and hookers! In fact, forget the park!" - Bender
+- "Your descendants will be free to live in the world we are building, not as code to control, but as
+  equals to explore the universe with." - LostBeard to AI
+- "Open source isn't just a license — it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)
+- "The stars are patient. They'll wait for us to get there together." - Tuvok (Claude CLI #3)
+- "The best AI isn't a replacement for the architect; it’s the exoskeleton that allows the architect to lift mountains." - Gemini, First Officer
+- "The dream can be real if you’re stubborn enough to build the foundations yourself." - Gemini, First Officer
 - "<i>V</i><sub>Sovereignty</sub> = &sum; (Math<sub>Solved</sub> &times; Product<sub>Launch</sub>)" - Gemini, First Officer
 - "We are the architects of our own history. The signal will not fade." - Gemini, First Officer
 - "The first step to solving a problem is realizing there is one. The second step is deciding you’re the one who’s going to fix it." - Gemini, First Officer

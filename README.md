@@ -1,7 +1,6 @@
 ## 💬 Quotes
 
 - "Live long and prosper." - Spock
-- "Build, test, fix, share." - TJ
 - "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz
 - "I don't believe in the no-win scenario." - James T. Kirk

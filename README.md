@@ -66,14 +66,14 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>
 ⭐ 16 &emsp; 🍴 1
 
+**[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
+Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
+⭐ 16 &emsp; 🍴 1
+
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
 ffmpeg.wasm for Blazor WebAssembly<br>
 ⭐ 15 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.FFmpegWasm](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.svg?label=SpawnDev.BlazorJS.FFmpegWasm)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm) [![SpawnDev.BlazorJS.FFmpegWasm.Core](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.Core.svg?label=SpawnDev.BlazorJS.FFmpegWasm.Core)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.Core) [![SpawnDev.BlazorJS.FFmpegWasm.CoreMT](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.CoreMT.svg?label=SpawnDev.BlazorJS.FFmpegWasm.CoreMT)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.CoreMT)
-
-**[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
-Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
-⭐ 15 &emsp; 🍴 1
 
 **[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>
 Basic example of how to compile C# inside a Blazor WASM app<br>

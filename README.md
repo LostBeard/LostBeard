@@ -135,15 +135,15 @@ SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
 
+**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
+Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
+⭐ 6 &emsp; 🍴 0  <br>
+[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
+
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>
 Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>
 ⭐ 6 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SocketIO](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SocketIO.svg?label=SpawnDev.BlazorJS.SocketIO)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SocketIO)
-
-**[SpawnDev.BlazorJS.CodeRunner](https://github.com/LostBeard/SpawnDev.BlazorJS.CodeRunner)**<br>
-Compile C# code and Blazor components in Blazor WebAssembly at runtime.<br>
-⭐ 6 &emsp; 🍴 1  <br>
-[![SpawnDev.BlazorJS.CodeRunner](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.CodeRunner.svg?label=SpawnDev.BlazorJS.CodeRunner)](https://www.nuget.org/packages/SpawnDev.BlazorJS.CodeRunner)
 
 
 <!-- PINS_END -->

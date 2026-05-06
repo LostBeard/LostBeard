@@ -31,6 +31,7 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 * **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop
 * **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)** - Cross-platform WebRTC for .NET
 * **[SpawnDev.MultiMedia](https://github.com/LostBeard/SpawnDev.MultiMedia)** - Cross-platform camera, microphone, speakers
+* **[SpawnDev.Codecs](https://github.com/LostBeard/SpawnDev.Codecs)** - Pure-.NET, ILGPU-accelerated, patent-clean audio and video codecs (Opus, VP8/9, AV1, FLAC, Vorbis)
 
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 

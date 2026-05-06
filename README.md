@@ -1,5 +1,6 @@
 ## 💬 Quotes
 
+- "Tax the rich" - American's who actually work for a living
 - "Live long and prosper." - Spock
 - "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz

@@ -1,6 +1,6 @@
 ## 💬 Quotes
 
-- "Tax the rich" - The 99% of Americans getting robbed by the lazy and greedy 1%
+- "Tax the rich" - The 99% of Americans getting robbed by the lazy greedy criminals in the 1%
 - "Live long and prosper." - Spock
 - "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz

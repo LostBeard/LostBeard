@@ -22,7 +22,7 @@
 
 ## 🛠️ Support Independent Open Source
 
-I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 43 MIT-licensed packages, 333,000+ total NuGet downloads, everything free.
+I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 50+ MIT-licensed packages, 351,000+ total NuGet downloads, everything free.
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)

@@ -1,6 +1,5 @@
 ## 💬 Quotes
 
-- "Tax the rich" - Americans who are tired of getting robbed by the lazy, greedy, criminals in the 1%; who REALLY owe the $39 trillion debt.
 - "Live long and prosper." - Spock
 - "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz

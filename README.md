@@ -126,6 +126,11 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 ⭐ 8 &emsp; 🍴 0  <br>
 [![SpawnDev.ILGPU.WebGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU.WebGPU)
 
+**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
+Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
+⭐ 7 &emsp; 🍴 0  <br>
+[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
+
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
@@ -135,11 +140,6 @@ PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembl
 SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
-
-**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
-Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 6 &emsp; 🍴 0  <br>
-[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[SpawnDev.BlazorJS.SocketIO](https://github.com/LostBeard/SpawnDev.BlazorJS.SocketIO)**<br>
 Socket.IO bidirectional and low-latency communication for every platform, in Blazor WebAssembly<br>

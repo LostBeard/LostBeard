@@ -52,12 +52,12 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>
 Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>
-⭐ 156 &emsp; 🍴 11  <br>
+⭐ 156 &emsp; 🍴 12  <br>
 [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
 Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>
-⭐ 39 &emsp; 🍴 1  <br>
+⭐ 39 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.WebWorkers](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebWorkers)
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>

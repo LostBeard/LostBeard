@@ -26,6 +26,7 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)
+* **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: **95K+ downloads.** Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers.
 * **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase
 * **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - Native GPU neural network inference, no ONNX Runtime
 * **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop

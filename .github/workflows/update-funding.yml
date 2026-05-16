@@ -20,7 +20,7 @@ jobs:
 
       - name: Run Funding Engine
         env:
-          GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN }}
         # Native file execution without needing a project file
         run: dotnet run .github/scripts/UpdateFunding.cs
 

@@ -55,6 +55,6 @@ var output = template
 
 // Output target destination
 Directory.CreateDirectory("assets");
-await File.WriteAllTextAsync("assets/progress.svg", output);
+await File.WriteAllTextAsync("assets/funding-bar.svg", output);
 
 Console.WriteLine($"Funding progress calculation verified: ${currentTotal} / ${goal} ({percent:F1}%)");

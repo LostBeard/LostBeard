@@ -24,8 +24,6 @@
 
 I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 50+ MIT-licensed packages, 351,000+ total NuGet downloads, everything free.
 
-![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
-
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)
 * **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers. (95K+ downloads)
@@ -39,6 +37,8 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 
 **[Become a Sponsor](https://github.com/sponsors/LostBeard)** - *Thank you for supporting independent open-source software!*
+
+![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
 ### Donate with Crypto
 

@@ -1,0 +1,31 @@
+name: Update Funding Progress Bar
+
+on:
+  schedule:
+    - cron: '17 4 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual execution from the Actions tab
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Run Funding Engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}
+        # Native file execution without needing a project file
+        run: dotnet run .github/scripts/generate-progress.cs
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/progress.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automated update of funding progress bar [skip ci]" && git push)

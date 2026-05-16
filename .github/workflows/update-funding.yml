@@ -1,7 +1,7 @@
 name: Update Funding Progress Bar
 
 on:
-  sponsorship:
+  sponsorships:
     types: [created, tier_changed, cancelled]
   schedule:
     - cron: '17 4 * * *' # Runs daily at midnight

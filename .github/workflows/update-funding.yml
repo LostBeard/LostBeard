@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}
         # Native file execution without needing a project file
-        run: dotnet run .github/scripts/update-progress.cs
+        run: dotnet run .github/scripts/UpdateFunding.cs
 
       - name: Commit and Push Changes
         run: |

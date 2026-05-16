@@ -30,5 +30,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add assets/progress.svg
+          git add assets/funding-bar.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automated update of funding progress bar [skip ci]" && git push)

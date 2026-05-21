@@ -22,9 +22,7 @@
 
 ## 🛠️ Support Independent Open Source
 
-I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 50+ MIT-licensed packages, 351,000+ total NuGet downloads, everything free.
-
-![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
+I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 50+ MIT-licensed packages, 351,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)
@@ -39,6 +37,8 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 
 **[Become a Sponsor](https://github.com/sponsors/LostBeard)** - *Thank you for supporting independent open-source software!*
+
+![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
 ### Donate with Crypto
 
@@ -65,7 +65,7 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 19 &emsp; 🍴 2  <br>
+⭐ 20 &emsp; 🍴 2  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>

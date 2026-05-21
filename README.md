@@ -44,10 +44,10 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 
 | Currency | Address |
 |----------|---------|
-| ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
-| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
-| ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
-| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=flat&logo=litecoin&logoColor=white) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
+| ![Bitcoin](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/bitcoin.svg) | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
+| ![Ethereum](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/ethereum.svg) | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
+| ![Solana](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/solana.svg) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
+| ![Litecoin](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/litecoin.svg) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
 
 > Crypto donations are anonymous by nature. If you'd like acknowledgment or want me to know who you are, send me an email at lostit1278@gmail.com with your transaction details. Otherwise, just know that every donation is appreciated.
 

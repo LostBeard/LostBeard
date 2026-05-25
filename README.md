@@ -66,7 +66,7 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 20 &emsp; 🍴 2  <br>
+⭐ 21 &emsp; 🍴 2  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
@@ -110,6 +110,11 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
 ⭐ 10 &emsp; 🍴 0
 
+**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
+Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
+⭐ 9 &emsp; 🍴 1  <br>
+[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
+
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
 ⭐ 9 &emsp; 🍴 1  <br>
@@ -124,11 +129,6 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
 ⭐ 9 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
-
-**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
-Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 8 &emsp; 🍴 0  <br>
-[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>

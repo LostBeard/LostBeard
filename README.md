@@ -1,5 +1,6 @@
 ## 💬 Quotes
 
+- "For small creatures such as we, the vastness is bearable only through love." - Carl Sagan
 - "Live long and prosper." - Spock
 - "Be excellent to each other." - Bill and Ted
 - "Time is the fire in which we burn" - Delmore Schwartz

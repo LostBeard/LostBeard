@@ -11,9 +11,9 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (163K+ downloads)
 * **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers. (98K+ downloads)
-* **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase
+* **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase. (Fastest growing package)
 * **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - Native GPU neural network inference, no ONNX Runtime
-* **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop
+* **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop. (No JS overhead)
 * **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)** - Cross-platform WebRTC for .NET
 * **[SpawnDev.MultiMedia](https://github.com/LostBeard/SpawnDev.MultiMedia)** - Cross-platform camera, microphone, speakers
 * **[SpawnDev.Codecs](https://github.com/LostBeard/SpawnDev.Codecs)** - Pure-.NET, ILGPU-accelerated, patent-clean audio and video codecs (Opus, VP8/9, AV1, FLAC, Vorbis)
@@ -22,10 +22,10 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 
 | Currency | Address |
 |----------|---------|
-| ![Bitcoin](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/bitcoin.svg) | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
-| ![Ethereum](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/ethereum.svg) | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
-| ![Solana](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/solana.svg) | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
-| ![Litecoin](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/litecoin.svg) | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
+| <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/bitcoin.svg" height="18" style="vertical-align: middle;" /> | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
+| <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/ethereum.svg" height="18" style="vertical-align: middle;" /> | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
+| <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/solana.svg" height="18" style="vertical-align: middle;" /> | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |
+| <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/litecoin.svg" height="18" style="vertical-align: middle;" /> | `ltc1qxhawxpkp8wveu726hmj09ft94zhtu939det99h` |
 
 > Crypto donations are anonymous by nature. If you'd like acknowledgment or want me to know who you are, send me an email at lostit1278@gmail.com with your transaction details. Otherwise, just know that every donation is appreciated.
 

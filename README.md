@@ -21,7 +21,7 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 ### Donate with Crypto
 
 | Currency | Address |
-|----------|---------|
+| :---: | :---: |
 | <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/bitcoin.svg" height="18" align="absmiddle" /> | `bc1qw32ctpalcckxfpcxxhe6gym0pqwh4tlk2f3dlw` |
 | <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/ethereum.svg" height="18" align="absmiddle" /> | `0x40D5D4C4fe0a2bcC2C0f72345Af327CA3620968b` |
 | <img src="https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/solana.svg" height="18" align="absmiddle" /> | `239p6PjmHTi28sKbjiaHWvzUry5ZUmPZTtizUszEwVFZ` |

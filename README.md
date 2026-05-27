@@ -1,6 +1,6 @@
 ## 🛠️ Support Independent Open Source
 
-I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 50+ MIT-licensed packages, 351,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 55 MIT-licensed packages, 376,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 
@@ -9,7 +9,7 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
 **What I build:**
-* **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,014 typed C# wrappers for the entire browser API (150K+ downloads)
+* **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (150K+ downloads)
 * **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers. (95K+ downloads)
 * **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase
 * **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - Native GPU neural network inference, no ONNX Runtime

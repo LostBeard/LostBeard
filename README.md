@@ -9,8 +9,8 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
 **What I build:**
-* **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (150K+ downloads)
-* **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers. (95K+ downloads)
+* **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (163K+ downloads)
+* **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**: Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers. (98K+ downloads)
 * **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase
 * **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - Native GPU neural network inference, no ONNX Runtime
 * **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop

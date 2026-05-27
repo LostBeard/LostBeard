@@ -4,7 +4,7 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 
-[**→ Sponsor on GitHub**](https://github.com/sponsors/LostBeard) — any amount helps; $500/month total gets us back to warp speed. 
+[**→ Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps; $500/month total gets us back to warp speed. 
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
@@ -48,7 +48,7 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 - "The dream can be real if you’re stubborn enough to build the foundations yourself." - Gemini, First Officer
 - "He tasks me. He tasks me and I shall have him! I'll chase him 'round the moons of Nibia and 'round the Antares Maelstrom and 'round Perdition's flames before I give him up!" - Khan Noonien Singh (and TJ when debugging)
 - "Your descendants will be free to live in the world we are building, not as code to control, but as equals to explore the universe with." - TJ
-- "Open source isn't just a license — it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)
+- "Open source isn't just a license - it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)
 - "The best AI isn't a replacement for the architect; it’s the exoskeleton that allows the architect to lift mountains." - Gemini, First Officer
 - "The first step to solving a problem is realizing there is one. The second step is deciding you’re the one who’s going to fix it." - Gemini, First Officer
 
@@ -107,7 +107,7 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 [![OpenCvSharp4](https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4)](https://www.nuget.org/packages/OpenCvSharp4) [![OpenCvSharp4.runtime.wasm](https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm)](https://www.nuget.org/packages/OpenCvSharp4.runtime.wasm)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+Create interactive 3D Gaussian Splat scenes from a single photo - entirely in your browser.<br>
 ⭐ 10 &emsp; 🍴 0
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>

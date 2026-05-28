@@ -107,7 +107,7 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 [![OpenCvSharp4](https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4)](https://www.nuget.org/packages/OpenCvSharp4) [![OpenCvSharp4.runtime.wasm](https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm)](https://www.nuget.org/packages/OpenCvSharp4.runtime.wasm)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo - entirely in your browser.<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
 ⭐ 10 &emsp; 🍴 0
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>

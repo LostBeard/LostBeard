@@ -66,7 +66,7 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 23 &emsp; 🍴 2  <br>
+⭐ 24 &emsp; 🍴 3  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
@@ -96,15 +96,15 @@ PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Bl
 ⭐ 13 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
+**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
+Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
+⭐ 12 &emsp; 🍴 2  <br>
+[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
+
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
 An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
 ⭐ 12 &emsp; 🍴 2  <br>
 [![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML) [![SpawnDev.PatchStreams](https://img.shields.io/nuget/dt/SpawnDev.PatchStreams.svg?label=SpawnDev.PatchStreams)](https://www.nuget.org/packages/SpawnDev.PatchStreams)
-
-**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
-Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 11 &emsp; 🍴 1  <br>
-[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>
 OpenCVSharp4 for Blazor WebAssembly<br>

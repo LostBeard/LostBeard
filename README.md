@@ -1,6 +1,6 @@
 ## 🛠️ Support Independent Open Source
 
-I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 55 MIT-licensed packages, 376,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 55 MIT-licensed packages, 391,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 

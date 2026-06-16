@@ -93,7 +93,7 @@ WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>
 PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>
-⭐ 13 &emsp; 🍴 2  <br>
+⭐ 14 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>

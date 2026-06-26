@@ -22,7 +22,7 @@ jobs:
 
       - name: Run Tracker Engine
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}
         # Executes the script directly without a .csproj file
         run: dotnet run .github/scripts/UpdateActivity.cs
 

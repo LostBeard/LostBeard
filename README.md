@@ -93,7 +93,7 @@ Basic example of how to compile C# inside a Blazor WASM app<br>
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
-⭐ 14 &emsp; 🍴 1  <br>
+⭐ 13 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.WebTorrents](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebTorrents.svg?label=SpawnDev.BlazorJS.WebTorrents)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebTorrents) [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>

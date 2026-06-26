@@ -1,9 +1,6 @@
 name: Update Commit Activity Tracker
 
 on:
-  schedule:
-    # Runs daily at midnight UTC
-    - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual execution
 
 jobs:

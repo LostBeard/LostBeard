@@ -20,6 +20,9 @@ jobs:
         with:
           dotnet-version: '10.0.x'
 
+      - name: Authenticate GitHub CLI
+        run: echo "${{ secrets.SPONSORS_API_TOKEN_REPO }}" | gh auth login --with-token
+
       - name: Run Tracker Engine
         env:
           GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}

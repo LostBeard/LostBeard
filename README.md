@@ -29,6 +29,8 @@ Your sponsorship goes directly to development time - no company, no overhead, ju
 
 > Crypto donations are anonymous by nature. If you'd like acknowledgment or want me to know who you are, send me an email at lostit1278@gmail.com with your transaction details. Otherwise, just know that every donation is appreciated.
 
+![Commit Activity Tracker](assets/activity-tracker.svg)
+
 ## 💬 Quotes
 
 - "For small creatures such as we, the vastness is bearable only through love." - Carl Sagan

@@ -4,7 +4,7 @@ I’m a solo open-source developer building infrastructure for .NET in the brows
 
 Your sponsorship goes directly to development time - no company, no overhead, just code.
 
-[**→ Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps; $500/month total gets us back to warp speed. 
+[**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps; $500/month total gets us back to warp speed. 
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 

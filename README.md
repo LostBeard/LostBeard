@@ -5,6 +5,7 @@
 > Due to this complete lack of resources, no issues can be investigated, no bugs can be fixed, and no features can be finished while funding remains at zero.
 > 
 > *I love building open-source infrastructure, but my family will never take a backseat to free code.*
+> 
 > - Todd Tanner aka LostBeard
 
 ## 🛠️ Support Independent Open Source

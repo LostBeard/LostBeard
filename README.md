@@ -1,3 +1,9 @@
+> ### 🛑 SpawnDev Development Stalled Indefinitely
+> 
+> Keeping the **SpawnDev** ecosystem open-source rather than pivoting to a closed-source commercial model requires sustainable financial backing. Because funding is currently at zero, **all development is entirely frozen**. 
+> 
+> Due to this complete lack of resources, no issues can be investigated, no bugs can be fixed, and no features can be finished while funding remains at zero.
+
 ## 🛠️ Support Independent Open Source
 
 I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 55 MIT-licensed packages, 400,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)

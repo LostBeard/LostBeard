@@ -1,4 +1,4 @@
-> ### 🛑 SpawnDev Development Stalled Indefinitely
+> ### 🛑 SpawnDev Development Stalled Indefinitely - My Family Comes Before Open Source
 > 
 > Keeping the **SpawnDev** ecosystem open-source rather than pivoting to a closed-source commercial model requires sustainable financial backing. Because funding is currently at zero, **all development is entirely frozen**. 
 > 

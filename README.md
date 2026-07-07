@@ -155,4 +155,4 @@ SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 <!-- PINS_END -->
 
 ## My world and my sunshine
-None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶
+None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️

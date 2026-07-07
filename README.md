@@ -1,13 +1,3 @@
-> # 🛑 SpawnDev Development Stalled Indefinitely - My Family Comes Before Open Source
-> 
-> Keeping the **SpawnDev** ecosystem open-source rather than pivoting to a closed-source commercial model requires sustainable financial backing. Because funding is currently at zero, **all development is entirely frozen**. 
-> 
-> Due to this complete lack of resources, no issues can be investigated, no bugs can be fixed, and no features can be finished while funding remains at zero.
-> 
-> *I love building open-source infrastructure, but my family will never take a backseat to free code.*
-> 
-> - Todd Tanner aka LostBeard
-
 ## 🛠️ Support Independent Open Source
 
 I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 58 MIT-licensed packages, 414,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)

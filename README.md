@@ -109,14 +109,14 @@ An extendable .Net library for reading and writing Extensible Binary Meta Langua
 ⭐ 12 &emsp; 🍴 2  <br>
 [![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML) [![SpawnDev.PatchStreams](https://img.shields.io/nuget/dt/SpawnDev.PatchStreams.svg?label=SpawnDev.PatchStreams)](https://www.nuget.org/packages/SpawnDev.PatchStreams)
 
+**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+⭐ 11 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>
 OpenCVSharp4 for Blazor WebAssembly<br>
 ⭐ 11 &emsp; 🍴 2  <br>
 [![OpenCvSharp4](https://img.shields.io/nuget/dt/OpenCvSharp4.svg?label=OpenCvSharp4)](https://www.nuget.org/packages/OpenCvSharp4) [![OpenCvSharp4.runtime.wasm](https://img.shields.io/nuget/dt/OpenCvSharp4.runtime.wasm.svg?label=OpenCvSharp4.runtime.wasm)](https://www.nuget.org/packages/OpenCvSharp4.runtime.wasm)
-
-**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 10 &emsp; 🍴 0
 
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
@@ -151,6 +151,7 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 ⭐ 7 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
+
 
 <!-- PINS_END -->
 

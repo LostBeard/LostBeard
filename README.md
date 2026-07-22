@@ -1,12 +1,14 @@
 ## 🛠️ Support Independent Open Source
 
-I’m a solo open-source developer building infrastructure for .NET in the browser that doesn’t exist anywhere else. 58 MIT-licensed packages, 414,000+ total NuGet downloads, everything free. [Nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
-Your sponsorship goes directly to development time - no company, no overhead, just code.
+If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time — no company, no overhead, just code — and it’s what lets me keep building this full-time for my family instead of shelving it.
 
-[**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps; $500/month total gets us back to warp speed. 
+[**❤️ Sponsor on GitHub »**](https://github.com/sponsors/LostBeard) — any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
+
+> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 1.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) — JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (170K+ downloads)

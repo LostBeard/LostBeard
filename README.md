@@ -1,7 +1,7 @@
-## My world and my sunshine
+# My world and my sunshine
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
-## When will America get REAL leadership that actually cares about the people of this country? We are all tired of the self-serving CLOWNS on BOTH sides of the party line. When basic needs are unaffordable and your country's leadership is raking in millions... NEWS FLASH: Your leadership is 💩
+## America - where pedophiles become president, a self-serving Congress gets rich, and hard-working people starve.
 
 ## 🛠️ Support Independent Open Source
 

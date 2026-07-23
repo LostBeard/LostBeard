@@ -3,6 +3,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 💩 America 💩
 - Where pedophiles become president, a self-serving Congress gets rich, and hard-working families starve homeless in the streets.
+- No, I am not at all proud to be an American where wage slavery is the NEW SLAVERY - same RAPE OF RIGHTS, broader slave base.
 
 ## 🛠️ Support Independent Open Source
 

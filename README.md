@@ -8,6 +8,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 - No, I am not at all proud to be an American where wage slavery is the NEW SLAVERY - same RAPE OF RIGHTS, broader slave base.
 - Corporations put poisons in our food that are banned in the rest of the world, because greed and corruption are encouraged.
 - America does not have captilism, it has corporate welfare, where corporations matter more than people.
+- We do not have a JUSTICE system, we have a bought and paid for LEGAL system that helps the rich profit off of mruder. [justice for families](https://topclassactions.com/lawsuit-settlements/lawsuit-news/supreme-court-limits-roundup-lawsuits-as-bayer-settlement-continues/)
 - Politicians will let people starve and go homeless, but won't let pedophile CEOs go without their 3rd, 4th, and 5th mansions.
 - Capitalism is just slavery with a new name when your country is ran by self-serving criminal clowns.
 - When working 40+ hours a week at a job you've held for 20+ years can't even cover rent, LET ALONE FOOD, 🖕 AMERICA'S WORSE THAN WORTHLESS "LEADERSHIP". 

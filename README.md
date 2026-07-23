@@ -1,3 +1,8 @@
+## My world and my sunshine
+None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
+
+## When will America get REAL leadership that actually cares about the people of this country? We are all tired of the self-serving CLOWNS on BOTH sides of the party line. When basic needs are unaffordable and your country's leadership is raking in millions... NEWS FLASH: Your leadership is SHIT.
+
 ## 🛠️ Support Independent Open Source
 
 I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
@@ -156,6 +161,3 @@ SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
 
 
 <!-- PINS_END -->
-
-## My world and my sunshine
-None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️

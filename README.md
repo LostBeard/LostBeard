@@ -1,7 +1,7 @@
 # My world and my sunshine
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
-## 💩 America 💩 - where pedophiles become president, a self-serving Congress gets rich, and hard-working people starve.
+## 💩 America 💩 - where pedophiles become president, a self-serving Congress gets rich, and hard-working families starve.
 
 ## 🛠️ Support Independent Open Source
 

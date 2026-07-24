@@ -93,7 +93,7 @@ This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and
 
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
 Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
-⭐ 16 &emsp; 🍴 1
+⭐ 16 &emsp; 🍴 2
 
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
 ffmpeg.wasm for Blazor WebAssembly<br>

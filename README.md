@@ -40,6 +40,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 ## 💬 Quotes
 
 - "The limits of tyrants are prescribed by the endurance of those whom they oppress." - Frederick Douglass
+- "I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass
 - "For small creatures such as we, the vastness is bearable only through love." - Carl Sagan
 - "Live long and prosper." - Spock
 - "Be excellent to each other." - Bill and Ted

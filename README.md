@@ -1,16 +1,6 @@
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
-<br>
-
-## 💩 America 💩
-- Where pedophiles become president, a self-serving Congress gets rich, and hard-working families starve homeless in the streets.
-- No, I am not at all proud to be an American where wage slavery is the NEW SLAVERY - same RAPE OF RIGHTS, broader slave base.
-- Capitalism is just slavery with a new name when your country is ran by self-serving criminal clowns.
-- When working 40+ hours a week at a job you've held for 20+ years can't even cover rent, LET ALONE FOOD, 🖕 AMERICA'S WORSE THAN WORTHLESS "LEADERSHIP". 
-
-<br>
-
 ## 🛠️ Support Independent Open Source
 
 I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)

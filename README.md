@@ -1,3 +1,5 @@
+# None of this work has helped my family's needs. I am now pivoting to things that do. 🖖
+
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 

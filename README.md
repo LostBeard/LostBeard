@@ -1,11 +1,9 @@
-# None of this work has helped my family's needs. I am now pivoting to things that do. 🖖
-
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
 ## 🛠️ Support Independent Open Source
-
-I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- Sponsor or donate to get support.
+- I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time — no company, no overhead, just code — and it’s what lets me keep building this full-time for my family instead of shelving it.
 

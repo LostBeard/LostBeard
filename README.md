@@ -3,15 +3,15 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - Sponsor or donate to get support.
-- I’m a solo open-source developer, no company behind me — building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- I’m a solo open-source developer, no company behind me - building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
-If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time — no company, no overhead, just code — and it’s what lets me keep building this full-time for my family instead of shelving it.
+If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code - and it’s what lets me keep building this full-time for my family instead of shelving it.
 
-[**❤️ Sponsor on GitHub »**](https://github.com/sponsors/LostBeard) — any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
+[**❤️ Sponsor on GitHub »**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
-> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 1.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) — JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
+> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 1.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) - JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (170K+ downloads)
@@ -117,7 +117,7 @@ An extendable .Net library for reading and writing Extensible Binary Meta Langua
 [![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML) [![SpawnDev.PatchStreams](https://img.shields.io/nuget/dt/SpawnDev.PatchStreams.svg?label=SpawnDev.PatchStreams)](https://www.nuget.org/packages/SpawnDev.PatchStreams)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
+Create interactive 3D Gaussian Splat scenes from a single photo - entirely in your browser.<br>
 ⭐ 12 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>

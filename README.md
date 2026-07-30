@@ -79,6 +79,11 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 ⭐ 28 &emsp; 🍴 4  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
+**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
+Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
+⭐ 16 &emsp; 🍴 3  <br>
+[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
+
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
 This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>
 ⭐ 16 &emsp; 🍴 1
@@ -86,11 +91,6 @@ This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
 Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
 ⭐ 16 &emsp; 🍴 2
-
-**[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
-Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 15 &emsp; 🍴 3  <br>
-[![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
 ffmpeg.wasm for Blazor WebAssembly<br>
@@ -117,7 +117,7 @@ An extendable .Net library for reading and writing Extensible Binary Meta Langua
 [![SpawnDev.EBML](https://img.shields.io/nuget/dt/SpawnDev.EBML.svg?label=SpawnDev.EBML)](https://www.nuget.org/packages/SpawnDev.EBML) [![SpawnDev.PatchStreams](https://img.shields.io/nuget/dt/SpawnDev.PatchStreams.svg?label=SpawnDev.PatchStreams)](https://www.nuget.org/packages/SpawnDev.PatchStreams)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo - entirely in your browser.<br>
+Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
 ⭐ 12 &emsp; 🍴 0
 
 **[SpawnDev.BlazorJS.OpenCVSharp4](https://github.com/LostBeard/SpawnDev.BlazorJS.OpenCVSharp4)**<br>

@@ -66,7 +66,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>
 Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>
-⭐ 157 &emsp; 🍴 12  <br>
+⭐ 158 &emsp; 🍴 12  <br>
 [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
@@ -127,7 +127,7 @@ OpenCVSharp4 for Blazor WebAssembly<br>
 
 **[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
 Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
-⭐ 10 &emsp; 🍴 1  <br>
+⭐ 11 &emsp; 🍴 1  <br>
 [![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
 
 **[LostSpawns](https://github.com/LostBeard/LostSpawns)**<br>

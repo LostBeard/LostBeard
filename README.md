@@ -66,22 +66,22 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 <!-- PINS_START -->
 **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)**<br>
 Full Blazor WebAssembly and Javascript interop. Supports all Javascript data types and web browser APIs.<br>
-⭐ 158 &emsp; 🍴 12  <br>
+⭐ 158 &emsp; 🍴 13  <br>
 [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS)
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
 Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>
-⭐ 39 &emsp; 🍴 2  <br>
+⭐ 40 &emsp; 🍴 3  <br>
 [![SpawnDev.BlazorJS.WebWorkers](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebWorkers)
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>
 .Net GPU compute for the browser and desktop. Write once, run on WebGPU, WebGL, Wasm, CUDA, OpenCL, and CPU<br>
-⭐ 28 &emsp; 🍴 4  <br>
+⭐ 28 &emsp; 🍴 5  <br>
 [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU)
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
 Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 16 &emsp; 🍴 3  <br>
+⭐ 16 &emsp; 🍴 4  <br>
 [![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
@@ -150,14 +150,14 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 ⭐ 8 &emsp; 🍴 0  <br>
 [![SpawnDev.ILGPU.WebGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU.WebGPU)
 
+**[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
+Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
+⭐ 7 &emsp; 🍴 1  <br>
+[![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
+
 **[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
 .NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
 ⭐ 7 &emsp; 🍴 0
-
-**[SpawnDev.BlazorJS.SimplePeer](https://github.com/LostBeard/SpawnDev.BlazorJS.SimplePeer)**<br>
-SimplePeer WebRTC video, voice, and data channels for Blazor WebAssembly<br>
-⭐ 7 &emsp; 🍴 0  <br>
-[![SpawnDev.BlazorJS.SimplePeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.svg?label=SpawnDev.BlazorJS.SimplePeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer) [![SpawnDev.BlazorJS.SimplePeer.RallyPeer](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.SimplePeer.RallyPeer.svg?label=SpawnDev.BlazorJS.SimplePeer.RallyPeer)](https://www.nuget.org/packages/SpawnDev.BlazorJS.SimplePeer.RallyPeer)
 
 
 <!-- PINS_END -->

@@ -140,6 +140,10 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 9 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.BrowserExtension](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.BrowserExtension.svg?label=SpawnDev.BlazorJS.BrowserExtension)](https://www.nuget.org/packages/SpawnDev.BlazorJS.BrowserExtension)
 
+**[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
+.NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
+⭐ 8 &emsp; 🍴 0
+
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
 PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>
 ⭐ 8 &emsp; 🍴 0  <br>
@@ -154,10 +158,6 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
 ⭐ 7 &emsp; 🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
-
-**[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
-.NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
-⭐ 7 &emsp; 🍴 0
 
 
 <!-- PINS_END -->

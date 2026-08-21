@@ -102,10 +102,6 @@ PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Bl
 ⭐ 15 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
-**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>
-Basic example of how to compile C# inside a Blazor WASM app<br>
-⭐ 15 &emsp; 🍴 1
-
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 ⭐ 14 &emsp; 🍴 1  <br>
@@ -158,6 +154,11 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
 ⭐ 7 &emsp; 🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
+
+**[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
+Cross-platform WebRTC for .NET - browser and desktop from a single API<br>
+⭐ 7 &emsp; 🍴 3  <br>
+[![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC) [![Portable.BouncyCastle](https://img.shields.io/nuget/dt/Portable.BouncyCastle.svg?label=Portable.BouncyCastle)](https://www.nuget.org/packages/Portable.BouncyCastle)
 
 
 <!-- PINS_END -->

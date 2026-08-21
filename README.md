@@ -11,7 +11,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
-> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 1.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) - JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
+> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 2.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) - JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (170K+ downloads)

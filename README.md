@@ -3,7 +3,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - Sponsor or donate to get support.
-- I’m a solo open-source developer, no company behind me - building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **58 MIT-licensed packages, 414,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- I’m a solo open-source developer, no company behind me - building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **67 MIT-licensed packages, 474,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code - and it’s what lets me keep building this full-time for my family instead of shelving it.
 
@@ -11,7 +11,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
-> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 1.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) - JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
+> 🆕 **Just shipped:** [**SpawnDev.SpawnJS 2.0.0**](https://github.com/LostBeard/SpawnDev.SpawnJS) - JSON-free JavaScript interop for .NET WebAssembly, up to **52× faster** than the standard interop path, and trim-safe.
 
 **What I build:**
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - 1,000+ typed C# wrappers for the entire browser API (170K+ downloads)
@@ -102,10 +102,6 @@ PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Bl
 ⭐ 15 &emsp; 🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
-**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>
-Basic example of how to compile C# inside a Blazor WASM app<br>
-⭐ 15 &emsp; 🍴 1
-
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 ⭐ 14 &emsp; 🍴 1  <br>
@@ -158,6 +154,11 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
 ⭐ 7 &emsp; 🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
+
+**[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
+Cross-platform WebRTC for .NET - browser and desktop from a single API<br>
+⭐ 7 &emsp; 🍴 3  <br>
+[![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC) [![Portable.BouncyCastle](https://img.shields.io/nuget/dt/Portable.BouncyCastle.svg?label=Portable.BouncyCastle)](https://www.nuget.org/packages/Portable.BouncyCastle)
 
 
 <!-- PINS_END -->

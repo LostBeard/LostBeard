@@ -109,7 +109,7 @@ WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
 Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 13 &emsp; 🍴 0
+⭐ 14 &emsp; 🍴 0
 
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
 An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>
@@ -136,6 +136,11 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 9 &emsp; 🍴 0  <br>
 [![SpawnDev.BlazorJS.BrowserExtension](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.BrowserExtension.svg?label=SpawnDev.BlazorJS.BrowserExtension)](https://www.nuget.org/packages/SpawnDev.BlazorJS.BrowserExtension)
 
+**[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
+Cross-platform WebRTC for .NET - browser and desktop from a single API<br>
+⭐ 8 &emsp; 🍴 3  <br>
+[![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC) [![Portable.BouncyCastle](https://img.shields.io/nuget/dt/Portable.BouncyCastle.svg?label=Portable.BouncyCastle)](https://www.nuget.org/packages/Portable.BouncyCastle)
+
 **[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
 .NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
 ⭐ 8 &emsp; 🍴 0
@@ -154,11 +159,6 @@ WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
 ⭐ 7 &emsp; 🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
-
-**[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
-Cross-platform WebRTC for .NET - browser and desktop from a single API<br>
-⭐ 7 &emsp; 🍴 3  <br>
-[![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC) [![Portable.BouncyCastle](https://img.shields.io/nuget/dt/Portable.BouncyCastle.svg?label=Portable.BouncyCastle)](https://www.nuget.org/packages/Portable.BouncyCastle)
 
 
 <!-- PINS_END -->

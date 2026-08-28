@@ -210,7 +210,7 @@ class Program
         
         // Layout Dimensions (Expanded chart right-margin to fit a clean Legend side-panel)
         int paddingLeft = 60;
-        int paddingRight = 320; // Extra room for the Repo Legend text
+        int paddingRight = 300; // Extra room for the Repo Legend text
         int paddingTop = 50;
         int paddingBottom = 60;
         int chartWidth = 900;
@@ -219,7 +219,7 @@ class Program
         int totalHeight = chartHeight + paddingTop + paddingBottom;
 
         DateTime localSince = since.ToLocalTime().Date;
-        DateTime localTo = DateTime.Now.Date;
+        DateTime localTo = DateTime.Now.Date + TimeSpan.FromDays(1);
         double totalDays = (localTo - localSince).TotalDays;
         if (totalDays <= 0) totalDays = 1;
 
@@ -298,7 +298,7 @@ class Program
         }
 
         // Render the Repo Color Legend side panel
-        int legendX = paddingLeft + chartWidth + 30;
+        int legendX = paddingLeft + chartWidth + 40;
         int legendYStart = paddingTop + 15;
         
         svg.AppendLine($"  <text x=\"{legendX}\" y=\"{legendYStart - 15}\" class=\"text\" style=\"font-weight:bold; fill:#c9d1d9;\">ACTIVE REPOSITORIES ({uniqueActiveRepos.Count})</text>");

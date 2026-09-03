@@ -110,7 +110,7 @@ WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
 Create interactive 3D Gaussian Splat scenes from a single photo — entirely in your browser.<br>
-⭐ 14 &emsp; 🍴 0
+⭐ 13 &emsp; 🍴 0
 
 **[SpawnDev.EBML](https://github.com/LostBeard/SpawnDev.EBML)**<br>
 An extendable .Net library for reading and writing Extensible Binary Meta Language (aka EBML) documents. Includes sch...<br>

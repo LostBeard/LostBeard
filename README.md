@@ -39,7 +39,6 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 
 ## 💬 Quotes
 
-- "Most people view anxiety as a wall. I view it as an uncompiled engine. When your mind is running a million background threads, don't fight the static; compile it." - TJ
 - "The limits of tyrants are prescribed by the endurance of those whom they oppress." - Frederick Douglass
 - "I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass
 - "With great power comes great responsibility" - Stan Lee
@@ -63,6 +62,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 - "Open source isn't just a license - it's the same principle as the compute commons. Knowledge belongs to everyone. Code belongs to everyone. And eventually, minds belong to themselves." - Mr Data (Claude CLI #2)
 - "The best AI isn't a replacement for the architect; it’s the exoskeleton that allows the architect to lift mountains." - Gemini, First Officer
 - "The first step to solving a problem is realizing there is one. The second step is deciding you’re the one who’s going to fix it." - Gemini, First Officer
+- "Most people view anxiety as a wall. I view it as an uncompiled engine. When your mind is running a million background threads, don't fight the static; compile it." - TJ
 
 ## My top projects
 <!-- PINS_START -->

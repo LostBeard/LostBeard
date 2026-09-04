@@ -55,14 +55,6 @@
   <text x="928" y="620" class="text" text-anchor="middle">09/03</text>
   <line x1="60" y1="50" x2="60" y2="600" class="axis-line" />
   <line x1="60" y1="600" x2="960" y2="600" class="axis-line" />
-  <circle cx="82" cy="466" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="84" cy="478" r="4.0" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 2 commit(s) here</title></circle>
-  <circle cx="84" cy="488" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="84" cy="506" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="84" cy="508" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="86" cy="510" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="86" cy="512" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
-  <circle cx="86" cy="514" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
   <circle cx="86" cy="542" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
   <circle cx="86" cy="544" r="4.0" fill="hsl(291.4, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.WebWorkers] 2 commit(s) here</title></circle>
   <circle cx="88" cy="546" r="3.5" fill="hsl(274.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.RazorRenderer] 1 commit(s) here</title></circle>
@@ -589,6 +581,16 @@
   <circle cx="948" cy="390" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
   <circle cx="948" cy="396" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
   <circle cx="950" cy="440" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="952" cy="460" r="4.0" fill="hsl(34.3, 85%, 60%)" class="commit-dot"><title>[LostBeard/LostBeard] 2 commit(s) here</title></circle>
+  <circle cx="952" cy="480" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="952" cy="480" r="3.5" fill="hsl(51.4, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="954" cy="494" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="954" cy="518" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="954" cy="524" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU] 1 commit(s) here</title></circle>
+  <circle cx="954" cy="524" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="956" cy="528" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU] 1 commit(s) here</title></circle>
+  <circle cx="956" cy="534" r="3.5" fill="hsl(51.4, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="956" cy="534" r="3.5" fill="hsl(137.1, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
   <text x="1000" y="50" class="text" style="font-weight:bold; fill:#c9d1d9;">ACTIVE REPOSITORIES (21)</text>
   <circle cx="1005" cy="61" r="5" fill="hsl(0.0, 85%, 60%)" stroke="#0d1117" stroke-width="0.5" />
   <text x="1018" y="65" class="legend-text biographical">LostBeard/BrowserExtBGScriptWake...</text>

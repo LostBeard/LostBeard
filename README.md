@@ -39,6 +39,7 @@ If any of it saves you or your team time, please consider sponsoring it. Your su
 
 ## 💬 Quotes
 
+- "Most people view anxiety as a wall. I view it as an uncompiled engine. When your mind is running a million background threads, don't fight the static; compile it." - TJ
 - "The limits of tyrants are prescribed by the endurance of those whom they oppress." - Frederick Douglass
 - "I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass
 - "With great power comes great responsibility" - Stan Lee

@@ -1,3 +1,10 @@
+# Welcome to SpawnDev
+- I believe in logic and empathy.
+- I have been writing code for over 40 years because it is what I love to do.
+- I build tools to turn my visions into reality and share them freely so others can build theirs.
+- If I can help you, I will. If you’re able to support my work by sponsoring me, it is deeply appreciated.
+- Greed isn't going away, but there are far more of us driven by heart than self-interest. Let’s make the world better for everyone.
+
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 

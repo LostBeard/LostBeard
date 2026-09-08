@@ -1,15 +1,9 @@
 # Welcome to SpawnDev
-- I believe in logic and empathy.
-- I have been writing code for over 40 years because it is what I love to do.
-- I build tools to turn my visions into reality and share them freely so others can build theirs.
-- If I can help you, I will. If you’re able to support my work by sponsoring me, it is deeply appreciated.
-- Greed isn't going away, but there are far more of us driven by heart than self-interest. Let’s make the world better for everyone.
 
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
 ## 🛠️ Support Independent Open Source
-- Support is currently free to all. If my work helps you make money, please consider sponsoring me. I would prefer not to dual license my work, but I will if necessary.
 - I’m a solo open-source developer, no company behind me - building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **68 MIT-licensed packages, 497,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 
 If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code - and it’s what lets me keep building this full-time for my family instead of shelving it.

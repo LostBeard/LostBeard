@@ -55,9 +55,6 @@
   <text x="928" y="620" class="text" text-anchor="middle">09/09</text>
   <line x1="60" y1="50" x2="60" y2="600" class="axis-line" />
   <line x1="60" y1="600" x2="960" y2="600" class="axis-line" />
-  <circle cx="74" cy="316" r="4.5" fill="hsl(90.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.GenericInvocation] 3 commit(s) here</title></circle>
-  <circle cx="74" cy="318" r="4.5" fill="hsl(90.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.GenericInvocation] 3 commit(s) here</title></circle>
-  <circle cx="74" cy="320" r="3.5" fill="hsl(90.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.GenericInvocation] 1 commit(s) here</title></circle>
   <circle cx="84" cy="488" r="3.5" fill="hsl(225.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.Core] 1 commit(s) here</title></circle>
   <circle cx="86" cy="524" r="3.5" fill="hsl(225.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.Core] 1 commit(s) here</title></circle>
   <circle cx="88" cy="546" r="3.5" fill="hsl(225.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.SpawnJS.Core] 1 commit(s) here</title></circle>
@@ -623,6 +620,25 @@
   <circle cx="926" cy="558" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
   <circle cx="926" cy="566" r="3.5" fill="hsl(105.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU] 1 commit(s) here</title></circle>
   <circle cx="926" cy="568" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="938" cy="224" r="3.5" fill="hsl(30.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/LostBeard] 1 commit(s) here</title></circle>
+  <circle cx="938" cy="226" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="938" cy="230" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="938" cy="232" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="938" cy="232" r="3.5" fill="hsl(165.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.Reachy] 1 commit(s) here</title></circle>
+  <circle cx="940" cy="248" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="940" cy="248" r="3.5" fill="hsl(105.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU] 1 commit(s) here</title></circle>
+  <circle cx="940" cy="268" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="280" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="294" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="304" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="310" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="312" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="316" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="326" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="338" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="342" r="3.5" fill="hsl(120.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.ILGPU.ML] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="348" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="944" cy="350" r="3.5" fill="hsl(60.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
   <text x="1000" y="50" class="text" style="font-weight:bold; fill:#c9d1d9;">ACTIVE REPOSITORIES (24)</text>
   <circle cx="1005" cy="61" r="5" fill="hsl(0.0, 85%, 60%)" stroke="#0d1117" stroke-width="0.5" />
   <text x="1018" y="65" class="legend-text biographical">LostBeard/BrowserExtBGScriptWake...</text>

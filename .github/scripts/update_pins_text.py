@@ -12,7 +12,7 @@ END_MARKER = "<!-- PINS_END -->"
 
 def get_top_repos(token):
     headers = {"Authorization": f"token {token}"}
-    url = f"https://api.github.com/users/{USERNAME}/repos?sort=pushed&per_page=100&type=owner"
+    url = f"https://api.github.com/users/{USERNAME}/repos?sort=pushed&per_page=1000&type=owner"
     
     try:
         response = requests.get(url, headers=headers)

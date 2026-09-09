@@ -1,23 +1,24 @@
+# Welcome to SpawnDev
+
 ## ❤️ My world and my sunshine ❤️
 None of this would exist without my world, Nikki, who gave me my sunshine, Aubs. 🫶♾️
 
 ## 🛠️ Support Independent Open Source
-- I’m a solo open-source developer, no company behind me - building infrastructure for **.NET in the browser** that doesn’t exist anywhere else. **68 MIT-licensed packages, 500,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
-
-If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code - and it’s what lets me keep building this full-time for my family instead of shelving it.
-
-[**❤️ Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
+- I’m a solo open-source developer, building infrastructure for **.NET in the browser** that doesn’t exist anywhere else.
+- **68 MIT-licensed packages, 500,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code.
+- [**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
 ![Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/funding-bar.svg)
 
 **What I build:**
 * **[SpawnDev.SpawnJS](https://github.com/LostBeard/SpawnDev.SpawnJS)** - ⚡⚡ JSON-free JavaScript interop for .NET Wasm and Blazor Wasm. 1,000+ typed C# wrappers for the entire browser API.
 * **[SpawnDev.SpawnJS.WebWorkers](https://github.com/LostBeard/SpawnDev.SpawnJS.WebWorkers)** - Run .NET Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers using SpawnDev.SpawnJS.
-* **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - GPU compute on 6 backends (WebGPU, WebGL, Wasm, CUDA, OpenCL, CPU) from one codebase.
-* **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - .Net machine learning with ILGPU for desktop and browser.
+* **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)** - Run ILGPU C# kernels on WebGPU, WebGL, Wasm, Cuda, OpenCL, and CPU.
+* **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)** - .Net machine learning with ILGPU for browser and desktop.
 * **[SpawnDev.AI](https://github.com/LostBeard/SpawnDev.AI)** - Run and serve local LLMs everywhere .NET runs - desktop and the browser.
-* **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent, browser and desktop.
-* **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)** - Cross-platform WebRTC for .NET
+* **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)** - Pure C# BitTorrent/WebTorrent for browser and desktop.
+* **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)** - Cross-platform WebRTC for .NET browser and desktop from a single API.
 * **[SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS)** - ⚡ Javascript interop for Blazor Wasm. 1,000+ typed C# wrappers for the entire browser API.
 * **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)** - Run Blazor Wasm in WebWorkers, SharedWebWorkers, and ServiceWorkers using SpawnDev.BlazorJS.
 

@@ -1,0 +1,33 @@
+name: Generate Profile README
+
+on:
+  schedule:
+    # Runs at 04:23 UTC to avoid high-traffic queues
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Generate README and assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_API_TOKEN_REPO }}
+        run: dotnet run --project ReadMeGenerator/ReadMeGenerator.csproj -c Release --no-launch-profile
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md assets/funding-bar.svg assets/activity-tracker.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: regenerate profile README [skip ci]" && git push)

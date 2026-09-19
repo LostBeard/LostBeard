@@ -616,6 +616,8 @@
   <circle cx="924" cy="540" r="3.5" fill="hsl(320.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnScene] 1 commit(s) here</title></circle>
   <circle cx="942" cy="294" r="3.5" fill="hsl(40.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
   <circle cx="942" cy="296" r="3.5" fill="hsl(40.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/SpawnDev.AI] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="312" r="3.5" fill="hsl(20.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/LostBeard] 1 commit(s) here</title></circle>
+  <circle cx="942" cy="314" r="3.5" fill="hsl(20.0, 85%, 60%)" class="commit-dot"><title>[LostBeard/LostBeard] 1 commit(s) here</title></circle>
   <text x="1000" y="50" class="text" style="font-weight:bold; fill:#c9d1d9;">ACTIVE REPOSITORIES (18)</text>
   <circle cx="1005" cy="61" r="5" fill="hsl(0.0, 85%, 60%)" stroke="#0d1117" stroke-width="0.5" />
   <text x="1018" y="65" class="legend-text">LostBeard/Gemineachy</text>

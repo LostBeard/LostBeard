@@ -51,10 +51,14 @@ logger.LogInformation("Fetching top repositories...");
 var repos = sp.GetRequiredService<GitHubRepoService>();
 data.TopRepos = await repos.GetTopReposAsync();
 
-logger.LogInformation("Updating funding bar...");
+logger.LogInformation("Updating monthly funding bar...");
 var funding = sp.GetRequiredService<FundingService>();
-var fundingStats = await funding.GetFundingStatsAsync();
-await funding.WriteFundingBarAsync(repoRoot, fundingStats);
+var fundingStats = await funding.GetMonthlyFundingStatsAsync();
+await funding.WriteMonthlyFundingBarAsync(repoRoot, fundingStats);
+
+logger.LogInformation("Updating hardware funding bar...");
+var hardwareStats = await funding.GetHardwareFundingStatsAsync(repoRoot);
+await funding.WriteHardwareFundingBarAsync(repoRoot, hardwareStats);
 
 logger.LogInformation("Updating activity tracker...");
 var activity = sp.GetRequiredService<ActivityTrackerService>();

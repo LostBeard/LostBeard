@@ -32,8 +32,9 @@ The future of independent client-side AI and browser-based graphics compute reli
 2. **Stress-Test SpawnDev.ILGPU:** Validate cross-platform kernel dispatch plans simultaneously across WebGPU, WebGL, and Wasm backends on high-end integrated RDNA 3.5 architectures.
 3. **Accelerate Zero-Allocation .NET Abstractions:** Run 70B+ enterprise-grade coding LLMs locally to accelerate development without recurring cloud token fees or peak-hour platform surcharges.
 
-* Progress: [▓░░░░░░░░░] 10% Funded ($450 / $4,500)
-* Help us hit warp speed—sponsor the build using the Sponsor button above or via our verified crypto addresses below!
+![Hardware Funding Progress](https://raw.githubusercontent.com/LostBeard/LostBeard/main/assets/hardware-funding-bar.svg)
+
+Help us hit warp speed - sponsor the build using the Sponsor button above or via our verified crypto addresses below!
 
 ### Donate with Crypto
 
@@ -103,7 +104,11 @@ This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and
 
 **[BlazorWebBluetoothDemo](https://github.com/LostBeard/BlazorWebBluetoothDemo)**<br>
 Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
-⭐ 16 &emsp; 🍴 2
+⭐ 16   🍴 2
+
+**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
+Create interactive 3D Gaussian Splat scenes from a single photo entirely in your browser.<br>
+⭐ 15   🍴 0
 
 **[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
 ffmpeg.wasm for Blazor WebAssembly<br>
@@ -115,9 +120,9 @@ PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Bl
 ⭐ 15   🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
 
-**[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create interactive 3D Gaussian Splat scenes from a single photo entirely in your browser.<br>
-⭐ 14 &emsp; 🍴 0
+**[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>
+Basic example of how to compile C# inside a Blazor WASM app<br>
+⭐ 15   🍴 1
 
 **[SpawnDev.BlazorJS.WebTorrents](https://github.com/LostBeard/SpawnDev.BlazorJS.WebTorrents)**<br>
 WebTorrent peer to peer file sharing for Blazor WebAssembly<br>
@@ -157,19 +162,9 @@ Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs 
 ⭐ 9   🍴 1  <br>
 [![SpawnDev.BlazorJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.svg?label=SpawnDev.BlazorJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU) [![SpawnDev.VoxelEngine](https://img.shields.io/nuget/dt/SpawnDev.VoxelEngine.svg?label=SpawnDev.VoxelEngine)](https://www.nuget.org/packages/SpawnDev.VoxelEngine) [![SpawnDev.GameUI](https://img.shields.io/nuget/dt/SpawnDev.GameUI.svg?label=SpawnDev.GameUI)](https://www.nuget.org/packages/SpawnDev.GameUI)
 
-**[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>
-PeerJS simplifies peer-to-peer data, video, and audio calls in Blazor WebAssembly<br>
-⭐ 8 &emsp; 🍴 0  <br>
-[![SpawnDev.BlazorJS.PeerJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PeerJS.svg?label=SpawnDev.BlazorJS.PeerJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PeerJS)
-
-**[SpawnDev.ILGPU.WebGPU](https://github.com/LostBeard/SpawnDev.ILGPU.WebGPU)**<br>
-WebGPU backend for ILGPU, enabling GPU compute in Blazor WebAssembly.<br>
-⭐ 8 &emsp; 🍴 0  <br>
-[![SpawnDev.ILGPU.WebGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.WebGPU.svg?label=SpawnDev.ILGPU.WebGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU.WebGPU)
-
 **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
-⭐ 7 &emsp; 🍴 1  <br>
+⭐ 8   🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>

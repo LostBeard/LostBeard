@@ -1,3 +1,19 @@
+# Build
 **/bin/
 **/obj/
+*.user
+*.userosscache
+*.suo
+*.cache
+project.lock.json
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.swp
+*~
+
+# Python leftover from retired scripts
 .github/scripts/__pycache__/
+__pycache__/
+*.pyc

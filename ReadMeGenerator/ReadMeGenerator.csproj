@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Content Include="Templates\progress.svg" CopyToOutputDirectory="PreserveNewest" />
+    <Content Update="hardware-funding.json" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>

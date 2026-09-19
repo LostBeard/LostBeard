@@ -201,7 +201,16 @@ public sealed class ActivityTrackerService
         if (totalDays <= 0)
             totalDays = 1;
 
-        var uniqueActiveRepos = commits.Select(c => c.RepoName).Distinct().OrderBy(r => r).ToList();
+        var repoCommitCounts = commits
+            .GroupBy(c => c.RepoName)
+            .ToDictionary(g => g.Key, g => g.Count());
+        // Most active repos first so the legend prioritizes what matters
+        var uniqueActiveRepos = repoCommitCounts
+            .OrderByDescending(kv => kv.Value)
+            .ThenBy(kv => kv.Key)
+            .Select(kv => kv.Key)
+            .ToList();
+        var totalCommits = commits.Count;
 
         var svg = new StringBuilder();
         svg.AppendLine(
@@ -222,7 +231,7 @@ public sealed class ActivityTrackerService
         svg.AppendLine("  </style>");
 
         svg.AppendLine(
-            $"  <text x=\"{paddingLeft}\" y=\"28\" class=\"text title\">GitHub Commit Activity Tracker (Last {DaysCoverage} Days: {localSince:MM/dd} - {localTo:MM/dd})</text>");
+            $"  <text x=\"{paddingLeft}\" y=\"28\" class=\"text title\">GitHub Commit Activity Tracker (Last {DaysCoverage} Days: {localSince:MM/dd} - {localTo:MM/dd}) - {totalCommits} commits</text>");
 
         for (var h = 0; h <= 24; h += 4)
         {
@@ -293,14 +302,20 @@ public sealed class ActivityTrackerService
             }
 
             var color = GetStableColor(i, uniqueActiveRepos.Count);
-            var shortName = uniqueActiveRepos[i];
-            if (shortName.Length > 35)
-                shortName = shortName[..32] + "...";
+            var repoName = uniqueActiveRepos[i];
+            var repoCount = repoCommitCounts[repoName];
+            var countSuffix = $" ({repoCount})";
+            var maxNameLen = 35 - countSuffix.Length;
+            if (maxNameLen < 8)
+                maxNameLen = 8;
+            var shortName = repoName;
+            if (shortName.Length > maxNameLen)
+                shortName = shortName[..Math.Max(0, maxNameLen - 3)] + "...";
 
             svg.AppendLine(
                 $"  <circle cx=\"{legendX + 5}\" cy=\"{itemY - 4}\" r=\"5\" fill=\"{color}\" stroke=\"#0d1117\" stroke-width=\"0.5\" />");
             svg.AppendLine(
-                $"  <text x=\"{legendX + 18}\" y=\"{itemY}\" class=\"legend-text\">{shortName}</text>");
+                $"  <text x=\"{legendX + 18}\" y=\"{itemY}\" class=\"legend-text\">{shortName}{countSuffix}</text>");
         }
 
         svg.AppendLine("</svg>");

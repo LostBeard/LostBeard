@@ -231,7 +231,7 @@ public sealed class ActivityTrackerService
         svg.AppendLine("  </style>");
 
         svg.AppendLine(
-            $"  <text x=\"{paddingLeft}\" y=\"28\" class=\"text title\">GitHub Commit Activity Tracker (Last {DaysCoverage} Days: {localSince:MM/dd} - {localTo:MM/dd}) - {totalCommits} commits</text>");
+            $"  <text x=\"{paddingLeft}\" y=\"28\" class=\"text title\">{Username}'s Commit Activity Tracker (Last {DaysCoverage} Days: {localSince:MM/dd} - {localTo:MM/dd}) - {totalCommits} commits</text>");
 
         for (var h = 0; h <= 24; h += 4)
         {

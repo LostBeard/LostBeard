@@ -164,7 +164,7 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 
 **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
-⭐ 8   🍴 1  <br>
+⭐ 9   🍴 1  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>

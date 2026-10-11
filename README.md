@@ -148,6 +148,10 @@ Cross-platform WebRTC for .NET browser and desktop from a single API<br>
 ⭐ 10   🍴 3  <br>
 [![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC)
 
+**[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
+.NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
+⭐ 10   🍴 0
+
 **[SpawnDev.BlazorJS.BrowserExtension](https://github.com/LostBeard/SpawnDev.BlazorJS.BrowserExtension)**<br>
 Create Blazor WASM Manifest V3 web browser extensions<br>
 ⭐ 10   🍴 0  <br>
@@ -157,10 +161,6 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs entirely client-side in your web brow...<br>
 ⭐ 10   🍴 2  <br>
 [![SpawnDev.SpawnJS](https://img.shields.io/nuget/dt/SpawnDev.SpawnJS.svg?label=SpawnDev.SpawnJS)](https://www.nuget.org/packages/SpawnDev.SpawnJS) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU) [![SpawnDev.VoxelEngine](https://img.shields.io/nuget/dt/SpawnDev.VoxelEngine.svg?label=SpawnDev.VoxelEngine)](https://www.nuget.org/packages/SpawnDev.VoxelEngine) [![SpawnDev.GameUI](https://img.shields.io/nuget/dt/SpawnDev.GameUI.svg?label=SpawnDev.GameUI)](https://www.nuget.org/packages/SpawnDev.GameUI)
-
-**[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
-.NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
-⭐ 9   🍴 0
 
 **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>

@@ -100,7 +100,7 @@ Hardware-agnostic machine learning infrastructure for .NET. Implements high-perf
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
 Create 3D gaussian splat scenes entirely in your browser.<br>
-⭐ 17   🍴 1
+⭐ 18   🍴 1
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
 This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>

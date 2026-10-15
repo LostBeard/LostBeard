@@ -99,7 +99,7 @@ Hardware-agnostic machine learning infrastructure for .NET. Implements high-perf
 [![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
-Create 3D gaussian splat scenes entirely in your browser.<br>
+Create 3D gaussian splat scenes entirely in your browser. Built on .NET WebAssembly.<br>
 ⭐ 18   🍴 1
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>

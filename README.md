@@ -5,7 +5,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - I’m a solo open-source developer, building infrastructure for **.NET in the browser** that doesn’t exist anywhere else.
-- **73 MIT-licensed packages, 583,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- **73 MIT-licensed packages, 587,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 - If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code.
 - [**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
@@ -100,7 +100,7 @@ Hardware-agnostic machine learning infrastructure for .NET. Implements high-perf
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>
 Create 3D gaussian splat scenes entirely in your browser. Built on .NET WebAssembly.<br>
-⭐ 18   🍴 1
+⭐ 19   🍴 1
 
 **[BlazorWASMSIMDDetectExample](https://github.com/LostBeard/BlazorWASMSIMDDetectExample)**<br>
 This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and using it if available.<br>

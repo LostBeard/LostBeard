@@ -5,7 +5,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - I’m a solo open-source developer, building infrastructure for **.NET in the browser** that doesn’t exist anywhere else.
-- **73 MIT-licensed packages, 589,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- **73 MIT-licensed packages, 592,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 - If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code.
 - [**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
@@ -95,7 +95,7 @@ Easily call Services in separate threads with WebWorkers and SharedWebWorkers. R
 
 **[SpawnDev.ILGPU.ML](https://github.com/LostBeard/SpawnDev.ILGPU.ML)**<br>
 Hardware-agnostic machine learning infrastructure for .NET. Implements high-performance neural network layers in C# t...<br>
-⭐ 23   🍴 4  <br>
+⭐ 24   🍴 4  <br>
 [![SpawnDev.ILGPU.ML](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.ML.svg?label=SpawnDev.ILGPU.ML)](https://www.nuget.org/packages/SpawnDev.ILGPU.ML) [![SpawnDev.ILGPU](https://img.shields.io/nuget/dt/SpawnDev.ILGPU.svg?label=SpawnDev.ILGPU)](https://www.nuget.org/packages/SpawnDev.ILGPU) [![SpawnDev.SpawnJS](https://img.shields.io/nuget/dt/SpawnDev.SpawnJS.svg?label=SpawnDev.SpawnJS)](https://www.nuget.org/packages/SpawnDev.SpawnJS)
 
 **[SpawnScene](https://github.com/LostBeard/SpawnScene)**<br>

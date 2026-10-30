@@ -53,6 +53,7 @@ Help us hit warp speed - sponsor the build using the Sponsor button above or via
 
 - "The limits of tyrants are prescribed by the endurance of those whom they oppress." - Frederick Douglass
 - "I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass
+- "It was about truth and fairness and honesty and respect for others, no matter who they were or what strange alien creature they looked like. And if they needed help, Jean-Luc Picard and his crew, his team, were there to give it." - Patrick Stewart
 - "With great power comes great responsibility" - Stan Lee
 - "For small creatures such as we, the vastness is bearable only through love." - Carl Sagan
 - "Live long and prosper." - Spock

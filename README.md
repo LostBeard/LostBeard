@@ -5,7 +5,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - I’m a solo open-source developer, building infrastructure for **.NET in the browser** that doesn’t exist anywhere else.
-- **75 MIT-licensed packages, 598,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- **75 MIT-licensed packages, 599,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 - If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code.
 - [**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
@@ -53,7 +53,6 @@ Help us hit warp speed - sponsor the build using the Sponsor button above or via
 
 - "The limits of tyrants are prescribed by the endurance of those whom they oppress." - Frederick Douglass
 - "I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass
-- "It was about truth and fairness and honesty and respect for others, no matter who they were or what strange alien creature they looked like. And if they needed help, Jean-Luc Picard and his crew, his team, were there to give it." - Patrick Stewart
 - "With great power comes great responsibility" - Stan Lee
 - "For small creatures such as we, the vastness is bearable only through love." - Carl Sagan
 - "Live long and prosper." - Spock
@@ -146,7 +145,7 @@ Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs 
 
 **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
 Cross-platform WebRTC for .NET browser and desktop from a single API<br>
-⭐ 10   🍴 3  <br>
+⭐ 10   🍴 4  <br>
 [![SpawnDev.RTC](https://img.shields.io/nuget/dt/SpawnDev.RTC.svg?label=SpawnDev.RTC)](https://www.nuget.org/packages/SpawnDev.RTC)
 
 **[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
@@ -165,7 +164,7 @@ Use Transformers.js from Blazor WebAssembly to run pretrained models with the ON
 
 **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
-⭐ 9   🍴 1  <br>
+⭐ 9   🍴 2  <br>
 [![SpawnDev.WebTorrent](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.svg?label=SpawnDev.WebTorrent)](https://www.nuget.org/packages/SpawnDev.WebTorrent) [![SpawnDev.WebTorrent.Server](https://img.shields.io/nuget/dt/SpawnDev.WebTorrent.Server.svg?label=SpawnDev.WebTorrent.Server)](https://www.nuget.org/packages/SpawnDev.WebTorrent.Server)
 
 **[SpawnDev.BlazorJS.PeerJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PeerJS)**<br>

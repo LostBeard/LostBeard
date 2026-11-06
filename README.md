@@ -5,7 +5,7 @@ None of this would exist without my world, Nikki, who gave me my sunshine, Aubs.
 
 ## 🛠️ Support Independent Open Source
 - I’m a solo open-source developer, building infrastructure for **.NET in the browser** that doesn’t exist anywhere else.
-- **75 MIT-licensed packages, 612,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
+- **75 MIT-licensed packages, 613,000+ NuGet downloads, all free.** [nuget.org/LostBeard](https://www.nuget.org/profiles/LostBeard)
 - If any of it saves you or your team time, please consider sponsoring it. Your support goes straight to development time - no company, no overhead, just code.
 - [**Sponsor on GitHub**](https://github.com/sponsors/LostBeard) - any amount helps, and **$500/month total gets us back to warp speed.** Sponsors get priority support.
 
@@ -85,7 +85,7 @@ Full Blazor WebAssembly and Javascript interop. Supports all Javascript data typ
 
 **[SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)**<br>
 Easily call Services in separate threads with WebWorkers and SharedWebWorkers. Run Blazor WASM in the ServiceWorker.<br>
-⭐ 40   🍴 3  <br>
+⭐ 39   🍴 3  <br>
 [![SpawnDev.BlazorJS.WebWorkers](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.WebWorkers.svg?label=SpawnDev.BlazorJS.WebWorkers)](https://www.nuget.org/packages/SpawnDev.BlazorJS.WebWorkers)
 
 **[SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU)**<br>

@@ -110,15 +110,15 @@ This .Net 8 Blazor WASM project demonstrates a way of detecting SIMD support and
 Blazor WASM Web Bluetooth API Demo using an ESP32-S3-WROOM microcontroller board<br>
 ⭐ 16   🍴 1
 
-**[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
-ffmpeg.wasm for Blazor WebAssembly<br>
-⭐ 15   🍴 0  <br>
-[![SpawnDev.BlazorJS.FFmpegWasm](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.svg?label=SpawnDev.BlazorJS.FFmpegWasm)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm) [![SpawnDev.BlazorJS.FFmpegWasm.Core](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.Core.svg?label=SpawnDev.BlazorJS.FFmpegWasm.Core)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.Core) [![SpawnDev.BlazorJS.FFmpegWasm.CoreMT](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.CoreMT.svg?label=SpawnDev.BlazorJS.FFmpegWasm.CoreMT)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.CoreMT)
-
 **[SpawnDev.BlazorJS.PixiJS](https://github.com/LostBeard/SpawnDev.BlazorJS.PixiJS)**<br>
 PixiJS Creation Engine. A beautiful, fast, and flexible 2D WebGL renderer for Blazor WebAssembly.<br>
 ⭐ 15   🍴 2  <br>
 [![SpawnDev.BlazorJS.PixiJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.PixiJS.svg?label=SpawnDev.BlazorJS.PixiJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.PixiJS)
+
+**[SpawnDev.BlazorJS.FFmpegWasm](https://github.com/LostBeard/SpawnDev.BlazorJS.FFmpegWasm)**<br>
+ffmpeg.wasm for Blazor WebAssembly<br>
+⭐ 15   🍴 0  <br>
+[![SpawnDev.BlazorJS.FFmpegWasm](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.svg?label=SpawnDev.BlazorJS.FFmpegWasm)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm) [![SpawnDev.BlazorJS.FFmpegWasm.Core](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.Core.svg?label=SpawnDev.BlazorJS.FFmpegWasm.Core)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.Core) [![SpawnDev.BlazorJS.FFmpegWasm.CoreMT](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.FFmpegWasm.CoreMT.svg?label=SpawnDev.BlazorJS.FFmpegWasm.CoreMT)](https://www.nuget.org/packages/SpawnDev.BlazorJS.FFmpegWasm.CoreMT)
 
 **[BlazorWASMScriptLoader](https://github.com/LostBeard/BlazorWASMScriptLoader)**<br>
 Basic example of how to compile C# inside a Blazor WASM app<br>
@@ -143,6 +143,11 @@ Create Blazor WASM Manifest V3 web browser extensions<br>
 OpenCVSharp4 for Blazor WebAssembly<br>
 ⭐ 11   🍴 2
 
+**[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
+Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
+⭐ 10   🍴 1  <br>
+[![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
+
 **[SpawnDev.RTC](https://github.com/LostBeard/SpawnDev.RTC)**<br>
 Cross-platform WebRTC for .NET browser and desktop from a single API<br>
 ⭐ 10   🍴 3  <br>
@@ -156,11 +161,6 @@ Lost Spawns is a post-apocalyptic survival voxel game inspired by DayZ. It runs 
 **[SpawnWear](https://github.com/LostBeard/SpawnWear)**<br>
 .NET nanoFramework firmware (C#) for the Waveshare ESP32-S3 Touch AMOLED 2.06 watch + Blazor WASM companion PWA<br>
 ⭐ 10   🍴 0
-
-**[SpawnDev.BlazorJS.TransformersJS](https://github.com/LostBeard/SpawnDev.BlazorJS.TransformersJS)**<br>
-Use Transformers.js from Blazor WebAssembly to run pretrained models with the ONNX Runtime in the browser.<br>
-⭐ 10   🍴 1  <br>
-[![SpawnDev.BlazorJS.TransformersJS](https://img.shields.io/nuget/dt/SpawnDev.BlazorJS.TransformersJS.svg?label=SpawnDev.BlazorJS.TransformersJS)](https://www.nuget.org/packages/SpawnDev.BlazorJS.TransformersJS)
 
 **[SpawnDev.WebTorrent](https://github.com/LostBeard/SpawnDev.WebTorrent)**<br>
 Pure C# BitTorrent/WebTorrent client and server. No JavaScript dependencies. Desktop + Browser (Blazor WASM). Random-...<br>
